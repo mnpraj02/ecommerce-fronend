@@ -1,0 +1,3311 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Ravindra Toluchuru",
+      "elecFullName": "Ravindra Sai Tholuchuru",
+      "elecPanNumber": "1234567890",
+      "elecMobileNumber": "1234567890",
+      "elecFatherName": "rajendra",
+      "elecAdress": "22b Baker Street",
+      "userName": "Ravi132",
+      "job": "Software Engineer",
+      "dob": "2022-01-21",
+      "avatar": "https://thumbs.dreamstime.com/z/fashion-model-woman-golden-bright-sparkles-girl-golden-skin-hair-portrait-closeup-fashion-model-woman-golden-bright-113010779.jpg",
+      "email": "ravindra.t19@iiits.in",
+      "mobileNumber": "8597456321",
+      "password": "Test@123",
+      "address": "251 Springer Road",
+      "wishlist": [],
+      "deliveryAdress": [
+        {
+          "id": 1,
+          "Name": "Ravindra",
+          "avatar": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+          "phoneNo": "123456",
+          "address": "Ananthauram",
+          "locationName": "ABC Street"
+        },
+        {
+          "id": 2,
+          "Name": "Chetan",
+          "avatar": "https://rukminim1.flixcart.com/image/416/416/ktketu80/mobile/3/e/o/iphone-13-pro-max-mll63hn-a-apple-original-imag6vpgwfgxdsj6.jpeg?q=70",
+          "phoneNo": "34681999929",
+          "address": "Hyderabad",
+          "locationName": "Jublee Hills"
+        },
+        {
+          "id": 3,
+          "Name": "Bhargav",
+          "avatar": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/1353004/2018/9/18/a8acac3a-077a-400f-a1c7-519215a5265e1537251707732-Roadster-Men-Blue-Denim-Washed-Casual-Shirt-5281537251705552-1.jpg",
+          "phoneNo": "34681568929",
+          "address": "Vizag",
+          "locationName": "oppsite Jagadhamba Theatre"
+        },
+        {
+          "id": 4,
+          "Name": "Sravan",
+          "avatar": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/15248534/2021/10/20/d658aaa9-dd2e-424c-98a6-8df71abaf0be1634729694763-Nautica-Men-Jeans-4551634729693996-5.jpg",
+          "phoneNo": "972552992025",
+          "address": "Guntur",
+          "locationName": "Children's Park"
+        },
+        {
+          "id": 62,
+          "avatar": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+          "Name": "sdfsdf",
+          "locationName": "sdfsd",
+          "phoneNo": "91-12345-12345",
+          "address": "sfsds"
+        },
+        {
+          "id": 28,
+          "avatar": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+          "Name": "dfgdf",
+          "locationName": "dfgdfg",
+          "phoneNo": "91-12345-12345",
+          "address": "dsfdff"
+        }
+      ],
+      "debitCards": [
+        {
+          "id": 1,
+          "avatar": "https://bfsi.eletsonline.com/wp-content/uploads/2020/09/Bajaj-Finserv-inks-Kwik.ID-as-their-Exclusive-Video-KYC-Partner.jpg",
+          "type": "Bajaj Finance",
+          "cardNo": "12345***9",
+          "name": "Ravindra",
+          "expiry": "10/2022"
+        },
+        {
+          "id": 2,
+          "avatar": "https://banksifsccode.com/blog/media/2020-03/how-to-login-to-union-bank-s-net-banking-account-step-4.jpg",
+          "type": "Union Bank",
+          "cardNo": "62545***1",
+          "name": "Chetan",
+          "expiry": "9/2022"
+        },
+        {
+          "id": 3,
+          "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb-tVpgHO9nYzyW8JaPyBvdbfIJGElM-9f-A&usqp=CAU",
+          "type": "SBI",
+          "cardNo": "32588***6",
+          "name": "Bhargav",
+          "expiry": "11/2023"
+        },
+        {
+          "id": 4,
+          "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW2ZlDd6-brYy8-FhdljcWE4dspUj772I21Q&usqp=CAU",
+          "type": "HDFC",
+          "cardNo": "42972***5",
+          "name": "Sravan",
+          "expiry": "10/2021"
+        },
+        {
+          "id": 5,
+          "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkVQfgqXeWs6u0_HLyEdYC4Lh_2_n2y6dt7Q&usqp=CAU&reload=on",
+          "type": "AXIS BANK",
+          "cardNo": "31468***9",
+          "name": "Rithwik",
+          "expiry": "12/2023"
+        }
+      ],
+      "upi": [
+        {
+          "id": 1,
+          "avatar": "https://play-lh.googleusercontent.com/k7yz57K2OxhNrPNKF2U18Zcv9rodOu7CfWh47U15FFUN8-_B0hQfXsM-BaLG0gOtvw=s180-rw",
+          "type": "PayTm",
+          "cardNo": "georgey75@paytm",
+          "name": "George",
+          "phoneNo": 123456789
+        },
+        {
+          "id": 36,
+          "avatar": "https://play-lh.googleusercontent.com/k7yz57K2OxhNrPNKF2U18Zcv9rodOu7CfWh47U15FFUN8-_B0hQfXsM-BaLG0gOtvw=s180-rw",
+          "name": "sdfsd",
+          "type": "dfs",
+          "phoneNo": "91-12345-12345",
+          "cardNo": "sds@g.g"
+        },
+        {
+          "id": 44,
+          "avatar": "https://play-lh.googleusercontent.com/k7yz57K2OxhNrPNKF2U18Zcv9rodOu7CfWh47U15FFUN8-_B0hQfXsM-BaLG0gOtvw=s180-rw",
+          "name": "fs",
+          "type": "dsfs",
+          "phoneNo": "91-12345-12345",
+          "cardNo": "s@e.e"
+        },
+        {
+          "id": 100,
+          "avatar": "https://play-lh.googleusercontent.com/k7yz57K2OxhNrPNKF2U18Zcv9rodOu7CfWh47U15FFUN8-_B0hQfXsM-BaLG0gOtvw=s180-rw",
+          "name": "dfsdfs",
+          "type": "dsfsds",
+          "phoneNo": "91-12345-12345",
+          "cardNo": "a@b.c"
+        }
+      ],
+      "myOrders": [
+        {
+          "id": 1,
+          "image": [
+            "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+            "links",
+            "links"
+          ],
+          "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+          "price": 1599,
+          "discount": 20,
+          "type": "Buy",
+          "Category": "Mens",
+          "status": "Delivered on 19th November"
+        }
+      ],
+      "cartItems": [],
+      "reviews": [],
+      "isLoggedIn": false
+    },
+    {
+      "id": 2,
+      "fullName": "Naveen12",
+      "elecFullName": "Naveen Kumar",
+      "elecPanNumber": "1234567890",
+      "elecMobileNumber": "9493528334",
+      "elecFatherName": "amita bachan",
+      "elecAdress": "madhavadara",
+      "job": "Software Engineer",
+      "dob": "2022-01-09",
+      "email": "naveenkumar.k19@iiits.in",
+      "avatar": "https://thumbs.dreamstime.com/z/fashion-model-woman-golden-bright-sparkles-girl-golden-skin-hair-portrait-closeup-fashion-model-woman-golden-bright-113010779.jpg",
+      "mobileNumber": "9493528334",
+      "password": "Test@123",
+      "address": "Madhavadhara",
+      "wishlist": [],
+      "myOrders": [
+        {
+          "id": 4,
+          "image": [
+            "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/15248534/2021/10/20/d658aaa9-dd2e-424c-98a6-8df71abaf0be1634729694763-Nautica-Men-Jeans-4551634729693996-5.jpg",
+            "links",
+            "links"
+          ],
+          "title": "Men Blue Straight Fit Mid Rise Heavy Fade Stretchable Jeans",
+          "price": 3291,
+          "discount": 55,
+          "type": "Buy",
+          "Category": "Mens",
+          "status": "Ordered on 12 January"
+        },
+        {
+          "id": 15,
+          "image": [
+            "https://rukminim1.flixcart.com/image/416/416/kmkxbww0/remote-control-toy/n/u/4/3d-fast-modern-car-sstoys-original-imagfgdgamejgbwp.jpeg?q=70",
+            "links",
+            "links"
+          ],
+          "title": "SSTOYS 3D Fast Modern Car  (Multicolor)",
+          "price": 599,
+          "discount": 72,
+          "type": "Buy",
+          "Category": "Kids",
+          "status": "Ordered on 12 January"
+        },
+        {
+          "id": 4,
+          "image": [
+            "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/15248534/2021/10/20/d658aaa9-dd2e-424c-98a6-8df71abaf0be1634729694763-Nautica-Men-Jeans-4551634729693996-5.jpg",
+            "links",
+            "links"
+          ],
+          "title": "Men Blue Straight Fit Mid Rise Heavy Fade Stretchable Jeans",
+          "price": 3291,
+          "discount": 55,
+          "type": "Buy",
+          "Category": "Mens",
+          "status": "Ordered on 11 January"
+        },
+        {
+          "id": 3421,
+          "image": [
+            "https://rukminim1.flixcart.com/image/779/935/kmwcuq80/shoe/w/u/s/7-444-gry-org-bruton-orange-original-imagfp7fzz5ftzfc.jpeg?q=50"
+          ],
+          "title": "Trendy Sports Running Running Shoes For Men  (Orange, Grey)",
+          "price": 700,
+          "discount": 12,
+          "type": "Buy",
+          "Category": "Mens",
+          "status": "Ordered on 11 January"
+        },
+        {
+          "id": 6,
+          "image": [
+            "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/12/27/3c5bc598-2093-48df-8e7c-6329adf0c2661577401172457-1.jpg",
+            "links",
+            "links"
+          ],
+          "title": "Men Grey Analogue Watch FC-775G4S4",
+          "price": 153274,
+          "discount": 65,
+          "type": "Buy",
+          "Category": "Accessories",
+          "status": "Ordered on 11 January"
+        },
+        {
+          "id": 2,
+          "image": [
+            "https://rukminim1.flixcart.com/image/416/416/ktketu80/mobile/3/e/o/iphone-13-pro-max-mll63hn-a-apple-original-imag6vpgwfgxdsj6.jpeg?q=70",
+            "links",
+            "links"
+          ],
+          "title": "APPLE iPhone 13 Pro Max (Graphite, 256 GB)",
+          "price": 119300,
+          "discount": 15,
+          "type": "Rent",
+          "Category": "Mobiles",
+          "status": "Ordered on 11 January"
+        },
+        {
+          "id": 4,
+          "image": [
+            "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/15248534/2021/10/20/d658aaa9-dd2e-424c-98a6-8df71abaf0be1634729694763-Nautica-Men-Jeans-4551634729693996-5.jpg",
+            "links",
+            "links"
+          ],
+          "title": "Men Blue Straight Fit Mid Rise Heavy Fade Stretchable Jeans",
+          "price": 3291,
+          "discount": 55,
+          "type": "Buy",
+          "Category": "Mens",
+          "status": "Ordered on 11 January"
+        }
+      ],
+      "deliveryAdress": [
+        {
+          "id": 1,
+          "Name": "Bhargav",
+          "avatar": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/1353004/2018/9/18/a8acac3a-077a-400f-a1c7-519215a5265e1537251707732-Roadster-Men-Blue-Denim-Washed-Casual-Shirt-5281537251705552-1.jpg",
+          "phoneNo": "34681568929",
+          "city": "Vizag",
+          "state": "Andhra Pradesh",
+          "address": "oppsite Jagadhamba Theatre",
+          "zip": "500074",
+          "email": "cnann3@chronoengine.com"
+        },
+        {
+          "id": 2,
+          "Name": "Sravan",
+          "avatar": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/15248534/2021/10/20/d658aaa9-dd2e-424c-98a6-8df71abaf0be1634729694763-Nautica-Men-Jeans-4551634729693996-5.jpg",
+          "phoneNo": "972552992025",
+          "city": "Guntur",
+          "state": "Andhra Pradesh",
+          "address": "Children's Park",
+          "zip": "500067",
+          "email": "hcaproni@home.pl"
+        },
+        {
+          "Name": "Naveen Kumar",
+          "email": "pandurebelsachin10@gmail.com",
+          "address": "Madhavadhara",
+          "city": "Visakhapatnam",
+          "state": "Andhra Pradesh",
+          "phoneNo": "9493528334",
+          "zip": "530018",
+          "id": 44,
+          "avatar": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+          "locationName": "sbt street"
+        }
+      ],
+      "debitCards": [
+        {
+          "id": 1,
+          "avatar": "https://bfsi.eletsonline.com/wp-content/uploads/2020/09/Bajaj-Finserv-inks-Kwik.ID-as-their-Exclusive-Video-KYC-Partner.jpg",
+          "type": "Bajaj Finance",
+          "cardNo": "12345***9",
+          "name": "Ravindra",
+          "expiry": "10/2022"
+        },
+        {
+          "id": 2,
+          "avatar": "https://banksifsccode.com/blog/media/2020-03/how-to-login-to-union-bank-s-net-banking-account-step-4.jpg",
+          "type": "Union Bank",
+          "cardNo": "62545***1",
+          "name": "Chetan",
+          "expiry": "9/2022"
+        },
+        {
+          "id": 3,
+          "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb-tVpgHO9nYzyW8JaPyBvdbfIJGElM-9f-A&usqp=CAU",
+          "type": "SBI",
+          "cardNo": "32588***6",
+          "name": "Bhargav",
+          "expiry": "11/2023"
+        },
+        {
+          "id": 51,
+          "avatar": "https://banksifsccode.com/blog/media/2020-03/how-to-login-to-union-bank-s-net-banking-account-step-4.jpg",
+          "name": "Virat Kohli",
+          "type": "SBI Credit Card",
+          "expiry": "2022-03",
+          "cardNo": "324123143214"
+        },
+        {
+          "id": 90,
+          "avatar": "https://banksifsccode.com/blog/media/2020-03/how-to-login-to-union-bank-s-net-banking-account-step-4.jpg",
+          "name": "JJ smith",
+          "type": "plastic card",
+          "expiry": "2022-07",
+          "cardNo": "1324123312"
+        },
+        {
+          "name": "Naveen Kumar Kalagarla",
+          "cardNo": "123412341212",
+          "expiry": "12/12",
+          "type": "Chetan Finances",
+          "id": 16
+        }
+      ],
+      "upi": [
+        {
+          "id": 1,
+          "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNhDTdW326JcXKYweltkqa8teThw8vAzpInA&usqp=CAU",
+          "type": "Phonepay",
+          "cardNo": "joey30@gmsil.com",
+          "name": "joey",
+          "phoneNo": 5582436910
+        },
+        {
+          "id": 2,
+          "avatar": "https://play-lh.googleusercontent.com/k7yz57K2OxhNrPNKF2U18Zcv9rodOu7CfWh47U15FFUN8-_B0hQfXsM-BaLG0gOtvw=s180-rw",
+          "type": "PayTm",
+          "cardNo": "Chandler62@gmail.com",
+          "name": "Chandler",
+          "phoneNo": 1239876540
+        },
+        {
+          "id": 45,
+          "avatar": "https://play-lh.googleusercontent.com/k7yz57K2OxhNrPNKF2U18Zcv9rodOu7CfWh47U15FFUN8-_B0hQfXsM-BaLG0gOtvw=s180-rw",
+          "name": "11bro",
+          "type": "gpay",
+          "phoneNo": "12343214321",
+          "cardNo": "12344"
+        },
+        {
+          "id": 43,
+          "avatar": "https://play-lh.googleusercontent.com/k7yz57K2OxhNrPNKF2U18Zcv9rodOu7CfWh47U15FFUN8-_B0hQfXsM-BaLG0gOtvw=s180-rw",
+          "name": "Naveen Kumar",
+          "type": "paytm",
+          "phoneNo": "9493528334",
+          "cardNo": "pandurebelsachin10@gmail.com"
+        },
+        {
+          "name": "Chetan",
+          "cardNo": "chetan@sbi.com",
+          "phoneNo": "9876543210",
+          "type": "PHONE PE",
+          "id": 14
+        }
+      ],
+      "cartItems": [],
+      "reviews": [],
+      "isLoggedIn": false,
+      "userName": "navi_123"
+    },
+    {
+      "id": 3,
+      "fullName": "Chetan Guduru",
+      "email": "chetan.g19@iiits.in",
+      "avatar": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "mobileNumber": "1105315339",
+      "password": "Test@123",
+      "address": "4 Swallow Alley",
+      "wishlist": [],
+      "purchases": [],
+      "deliveryAdress": [
+        {
+          "id": 5,
+          "Name": "Rithwik",
+          "avatar": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/12247308/2021/6/4/f210363f-8c55-42bc-a6f0-238077c18bc41622789741703-UNDER-ARMOUR-Men-Sports-Shoes-8471622789741281-5.jpg",
+          "phoneNo": "972552992024",
+          "address": "Nellore",
+          "locationName": "Ramji Nagar"
+        },
+        {
+          "id": 6,
+          "Name": "Chandler Bing",
+          "avatar": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/12/27/3c5bc598-2093-48df-8e7c-6329adf0c2661577401172457-1.jpg",
+          "phoneNo": "48727801893",
+          "address": "Ls Angeles",
+          "locationName": "Centrel Perk"
+        }
+      ],
+      "cartItems": [],
+      "reviews": [],
+      "isLoggedIn": false
+    },
+    {
+      "id": 4,
+      "fullName": "Corrianne Nann",
+      "email": "cnann3@chronoengine.com",
+      "avatar": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "mobileNumber": "2124965379",
+      "password": "MOn2U4Mf",
+      "address": "9 Lakewood Gardens Circle",
+      "wishlist": [],
+      "purchases": [],
+      "deliveryAdress": [],
+      "cartItems": [],
+      "reviews": [],
+      "isLoggedIn": false
+    },
+    {
+      "id": 5,
+      "fullName": "Margit Cabbell",
+      "email": "mcabbell4@addtoany.com",
+      "avatar": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "mobileNumber": "9503504996",
+      "password": "w9UyEsSKVGGh",
+      "address": "70876 Jackson Way",
+      "wishlist": [],
+      "purchases": [],
+      "deliveryAdress": [],
+      "cartItems": [],
+      "reviews": [],
+      "isLoggedIn": false
+    },
+    {
+      "id": 6,
+      "fullName": "Ilse Tranmer",
+      "email": "itranmer5@nsw.gov.au",
+      "avatar": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "mobileNumber": "8807963248",
+      "password": "dMxBsw",
+      "address": "7767 Morningstar Plaza",
+      "wishlist": [],
+      "purchases": [],
+      "deliveryAdress": [],
+      "cartItems": [],
+      "reviews": [],
+      "isLoggedIn": false
+    },
+    {
+      "id": 7,
+      "fullName": "Norene Cleaves",
+      "email": "ncleaves6@smh.com.au",
+      "avatar": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "mobileNumber": "4694414429",
+      "password": "Q72mrMFK",
+      "address": "51 Center Avenue",
+      "wishlist": [],
+      "purchases": [],
+      "deliveryAdress": [],
+      "cartItems": [],
+      "reviews": [],
+      "isLoggedIn": false
+    },
+    {
+      "id": 8,
+      "fullName": "Pierette Trask",
+      "email": "ptrask7@blogger.com",
+      "avatar": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "mobileNumber": "8829894885",
+      "password": "SghmK3",
+      "address": "63585 Armistice Pass",
+      "wishlist": [],
+      "purchases": [],
+      "deliveryAdress": [],
+      "cartItems": [],
+      "reviews": [],
+      "isLoggedIn": false
+    },
+    {
+      "id": 9,
+      "fullName": "Lockwood Tinsey",
+      "avatar": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "email": "ltinsey8@msn.com",
+      "mobileNumber": "0435805908",
+      "password": "pDfMcSmh",
+      "address": "1883 Nobel Point",
+      "wishlist": [],
+      "deliveryAdress": [],
+      "purchases": [],
+      "cartItems": [],
+      "reviews": [],
+      "isLoggedIn": false
+    },
+    {
+      "id": 10,
+      "fullName": "Brandea Clarkin",
+      "email": "bclarkin9@scientificamerican.com",
+      "avatar": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "mobileNumber": "2037097743",
+      "password": "StKfovdizZ",
+      "address": "626 Holmberg Plaza",
+      "wishlist": [],
+      "purchases": [],
+      "deliveryAdress": [],
+      "cartItems": [],
+      "reviews": [],
+      "isLoggedIn": false
+    },
+    {
+      "id": 11,
+      "fullName": "Abran Tuffley",
+      "email": "atuffleya@wunderground.com",
+      "avatar": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "mobileNumber": "6844186487",
+      "password": "eraRujuOexs",
+      "address": "7251 Eastwood Parkway",
+      "wishlist": [],
+      "purchases": [],
+      "deliveryAdress": [],
+      "cartItems": [],
+      "reviews": [],
+      "isLoggedIn": false
+    },
+    {
+      "id": 12,
+      "fullName": "Wilma Wennam",
+      "email": "wwennamb@berkeley.edu",
+      "avatar": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "mobileNumber": "0302014462",
+      "password": "fGSVj2jSG",
+      "address": "42 Mockingbird Avenue",
+      "wishlist": [],
+      "purchases": [],
+      "deliveryAdress": [],
+      "cartItems": [],
+      "reviews": [],
+      "isLoggedIn": false
+    },
+    {
+      "id": 13,
+      "fullName": "Terrell O'Carroll",
+      "avatar": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "email": "tocarrollc@elpais.com",
+      "mobileNumber": "6750408176",
+      "password": "19nVEyOXe5Ck",
+      "address": "498 Oak Valley Way",
+      "wishlist": [],
+      "deliveryAdress": [],
+      "purchases": [],
+      "cartItems": [],
+      "reviews": [],
+      "isLoggedIn": false
+    },
+    {
+      "id": 14,
+      "fullName": "Antonietta Baswall",
+      "avatar": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "email": "abaswalld@fema.gov",
+      "mobileNumber": "3698074524",
+      "password": "XwSvDS4dRz",
+      "address": "3878 Eagan Junction",
+      "wishlist": [],
+      "deliveryAdress": [],
+      "purchases": [],
+      "cartItems": [],
+      "reviews": [],
+      "isLoggedIn": false
+    },
+    {
+      "id": 15,
+      "fullName": "Elvin Speariett",
+      "avatar": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "email": "espeariette@marketwatch.com",
+      "mobileNumber": "3568676869",
+      "password": "sshyiG",
+      "address": "29077 Oak Valley Trail",
+      "wishlist": [],
+      "deliveryAdress": [],
+      "purchases": [],
+      "cartItems": [],
+      "reviews": [],
+      "isLoggedIn": false
+    },
+    {
+      "id": 16,
+      "fullName": "Melany Medforth",
+      "email": "mmedforthf@livejournal.com",
+      "avatar": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "mobileNumber": "1013345290",
+      "password": "uMjDgGOFQW",
+      "address": "3 7th Hill",
+      "wishlist": [],
+      "purchases": [],
+      "deliveryAdress": [],
+      "cartItems": [],
+      "reviews": [],
+      "isLoggedIn": false
+    },
+    {
+      "id": 17,
+      "fullName": "Annora Lummus",
+      "email": "alummusg@google.es",
+      "avatar": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "mobileNumber": "4664372620",
+      "password": "Ifrn9UXC",
+      "address": "83521 Village Green Alley",
+      "wishlist": [],
+      "purchases": [],
+      "deliveryAdress": [],
+      "cartItems": [],
+      "reviews": [],
+      "isLoggedIn": false
+    },
+    {
+      "id": 18,
+      "fullName": "Eal Delbergue",
+      "email": "edelbergueh@feedburner.com",
+      "avatar": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "mobileNumber": "2653968045",
+      "password": "hXHi8I9",
+      "address": "4 Messerschmidt Point",
+      "wishlist": [],
+      "purchases": [],
+      "deliveryAdress": [],
+      "cartItems": [],
+      "reviews": [],
+      "isLoggedIn": false
+    },
+    {
+      "id": 19,
+      "fullName": "Humberto Capron",
+      "email": "hcaproni@home.pl",
+      "avatar": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "mobileNumber": "5392149685",
+      "password": "kxPQp2qxgzEF",
+      "address": "721 Almo Place",
+      "wishlist": [],
+      "purchases": [],
+      "deliveryAdress": [],
+      "cartItems": [],
+      "reviews": [],
+      "isLoggedIn": false
+    },
+    {
+      "id": 20,
+      "fullName": "Germayne Purse",
+      "email": "gpursej@gov.uk",
+      "mobileNumber": "0144500213",
+      "avatar": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "password": "4FnCE9",
+      "address": "20 Michigan Center",
+      "wishlist": [],
+      "purchases": [],
+      "cartItems": [],
+      "deliveryAdress": [],
+      "reviews": [],
+      "isLoggedIn": false
+    },
+    {
+      "id": 21,
+      "fullName": "Adelbert McGiff",
+      "avatar": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "email": "amcgiffk@hud.gov",
+      "mobileNumber": "6842567653",
+      "password": "0iDcg2AOLwCp",
+      "address": "996 Ridge Oak Crossing",
+      "wishlist": [],
+      "deliveryAdress": [],
+      "purchases": [],
+      "cartItems": [],
+      "reviews": [],
+      "isLoggedIn": false
+    },
+    {
+      "id": 22,
+      "fullName": "Sharla Revan",
+      "email": "srevanl@blogs.com",
+      "avatar": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "mobileNumber": "0627731597",
+      "password": "DkfNpOj3",
+      "address": "557 Ryan Lane",
+      "wishlist": [],
+      "purchases": [],
+      "deliveryAdress": [],
+      "cartItems": [],
+      "reviews": [],
+      "isLoggedIn": false
+    },
+    {
+      "id": 23,
+      "fullName": "Randi Jessel",
+      "avatar": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "email": "rjesselm@adobe.com",
+      "mobileNumber": "1213387752",
+      "password": "JR7mXNKpnUX",
+      "address": "7 Karstens Circle",
+      "wishlist": [],
+      "deliveryAdress": [],
+      "purchases": [],
+      "cartItems": [],
+      "reviews": [],
+      "isLoggedIn": false
+    },
+    {
+      "id": 24,
+      "fullName": "Charin Trevan",
+      "email": "ctrevann@github.io",
+      "avatar": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "mobileNumber": "9778267642",
+      "password": "urofLJB4vXmj",
+      "address": "4 Warbler Court",
+      "wishlist": [],
+      "purchases": [],
+      "deliveryAdress": [],
+      "cartItems": [],
+      "reviews": [],
+      "isLoggedIn": false
+    },
+    {
+      "id": 25,
+      "fullName": "Constancy Pollett",
+      "email": "cpolletto@springer.com",
+      "mobileNumber": "5260685369",
+      "avatar": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "password": "XOKmJUL33Mlv",
+      "address": "21 Fuller Circle",
+      "wishlist": [],
+      "purchases": [],
+      "cartItems": [],
+      "deliveryAdress": [],
+      "reviews": [],
+      "isLoggedIn": false
+    },
+    {
+      "fulllName": "John Kennedy",
+      "email": "johnkennedy@gmail.com",
+      "mobileNumber": "5054123897",
+      "password": "Test@123",
+      "address": " ",
+      "avatar": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "wishlist": [],
+      "purchases": [],
+      "cartItems": [],
+      "reviews": [],
+      "isLoggedIn": true,
+      "deliveryAdress": [],
+      "id": 26
+    },
+    {
+      "fulllName": "Ravindra Tholuchuru",
+      "email": "tholuchururavindra@gmail.com",
+      "mobileNumber": "8688358501",
+      "password": "Test@123",
+      "avatar": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "address": " ",
+      "wishlist": [],
+      "purchases": [],
+      "cartItems": [],
+      "reviews": [],
+      "deliveryAdress": [],
+      "isLoggedIn": true,
+      "id": 27
+    },
+    {
+      "fulllName": "Guduru Chetan",
+      "email": "guduruchetan@gmail.com",
+      "avatar": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "mobileNumber": "+446300014049",
+      "password": "test@123",
+      "address": " ",
+      "wishlist": [],
+      "purchases": [],
+      "deliveryAdress": [],
+      "cartItems": [],
+      "reviews": [],
+      "isLoggedIn": true,
+      "id": 28
+    },
+    {
+      "fulllName": "Chetan Guduru",
+      "avatar": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "email": "guduru@gmail.com",
+      "mobileNumber": "749587934",
+      "password": "test@123",
+      "address": " ",
+      "wishlist": [],
+      "deliveryAdress": [],
+      "purchases": [],
+      "cartItems": [],
+      "reviews": [],
+      "isLoggedIn": true,
+      "id": 29
+    },
+    {
+      "fulllName": "Naveen Kumar",
+      "email": "pandurebelsachin11@gmail.com",
+      "mobileNumber": "1234567890",
+      "password": "Test@123",
+      "address": " ",
+      "wishlist": [],
+      "purchases": [],
+      "cartItems": [],
+      "reviews": [],
+      "isLoggedIn": true,
+      "id": 30
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 1599,
+      "discount": 20,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "image": [
+        "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "links",
+        "links"
+      ],
+      "rating": {
+        "rate": 0.8,
+        "count": 120
+      },
+      "type": "Buy",
+      "Category": "Mens",
+      "stockAvailable": 53,
+      "Reviews": [
+        {
+          "UserName": "Rithwik",
+          "Rating": 5,
+          "Heading": "Very nice product",
+          "Body": "Too good fully satisfied"
+        },
+        {
+          "UserName": "Chetan",
+          "Rating": 5,
+          "Heading": "Too good fully satisfied",
+          "Body": "It was trending as the best seller. But after purchasing it I realised that generic material has been used in the making of this item."
+        },
+        {
+          "UserName": "Ravindra",
+          "Rating": 2,
+          "Heading": " Not good",
+          "Body": "this product is very bad in quality. its shoulder strips are not good after two days use the strip break. there is a cover for cover the bag during raining season."
+        },
+        {
+          "UserName": "Sravan",
+          "Rating": 1,
+          "Heading": " Low quality product.",
+          "Body": "I thought it must be more strong.no doubt it is strong but the fear to carry less things is maintained."
+        },
+        {
+          "UserName": "Naveen",
+          "Rating": 5,
+          "Heading": " Useful multi-purpose",
+          "Body": "Good Product... Light Waight & Nice Looking Bag... Bag Is Too Short..."
+        },
+        {
+          "UserName": "Bhargav",
+          "Rating": 5,
+          "Heading": " Good quality..",
+          "Body": " Can put your laptop and I pads with safety,Very nice style and colour.Not soo big neither too small.Also useful for office."
+        },
+        {
+          "UserName": "Mahesh",
+          "Rating": 3,
+          "Heading": "Not Bad!",
+          "Body": "This bag is good for college and office purposes. It's very attractive and has good looks. The bag comes with a bag cover for covering the bag during rainy season. I don't think big laptop will fit in this bag but it has shelf for laptop."
+        },
+        {
+          "UserName": "Akhanda",
+          "Rating": 5,
+          "Heading": "Good for students",
+          "Body": "The bag is good according to its price. But I find that the chains of the bag are not easily moving."
+        },
+        {
+          "UserName": "Nani",
+          "Rating": 5,
+          "Heading": "5.0 out of 5 stars Best bag at best price",
+          "Body": "Quality is not bad. Bag containing 2 bottle holders which is nice . Space is also ok."
+        },
+        {
+          "UserName": "Naresh",
+          "Rating": 3,
+          "Heading": " Good looking bag but chains are not good",
+          "Body": "Not of good quality - average price is shown originally at high price and offering at a lower rate but it shows of poor in quality"
+        },
+        {
+          "UserName": "Pavan",
+          "Rating": 4,
+          "Heading": "Useful and beneficial",
+          "Body": "Good quality and as per descrption in the item details. Although the raincover is just a piece of polythene. But still it serves the purpose."
+        },
+        {
+          "UserName": "Chaari",
+          "Rating": 3,
+          "Heading": " Not of Good Quality",
+          "Body": "I liked there promises for rain cover in a average price ,but rain cover is too small that it can not protect your belongings to take shower in rain,there is strong possibility that at least your will suffer one time due to pseudo rain protection feeling."
+        },
+        {
+          "UserName": "Ram",
+          "Rating": 3,
+          "Heading": " Overall ok",
+          "Body": "Not in quality"
+        },
+        {
+          "UserName": "Messi",
+          "Rating": 2,
+          "Heading": "Okay!",
+          "Body": "no extra pockets ,no organizer pockets for small valuable things or frequently needed things"
+        }
+      ],
+      "Faq": [
+        {
+          "Question": "Is there any warranty",
+          "Answer": "I don't know. But this is super product ...",
+          "Upvotes": 3
+        },
+        {
+          "Question": "Does it have Rain cover?",
+          "Answer": "yes",
+          "Upvotes": 2
+        },
+        {
+          "Question": "Return policy is available or not",
+          "Answer": "Available",
+          "Upvotes": 3
+        },
+        {
+          "Question": "15.6 inch laptop fits in this bag?",
+          "Answer": "Yes, 15.6 inch laptop can easily fit in this bag. Thanks",
+          "Upvotes": 1
+        },
+        {
+          "Question": "In heavy rain does it work without rain cover",
+          "Answer": "No, during heavy rain you should use raincover.",
+          "Upvotes": 7
+        },
+        {
+          "Question": "Is it available gray color",
+          "Answer": "Search Half Moon bags on Amazon to check any color variation if available.",
+          "Upvotes": 3
+        },
+        {
+          "Question": "Does it have Laptop Compartment",
+          "Answer": "Yes, it has a padded laptop compartment",
+          "Upvotes": 6
+        },
+        {
+          "Question": "Custom logo Possible qty 20Pic Order",
+          "Answer": "No",
+          "Upvotes": 4
+        },
+        {
+          "Question": "Does this product has return policy??",
+          "Answer": "Yes",
+          "Upvotes": 5
+        },
+        {
+          "Question": "Can i carry a small size umbrella in it?",
+          "Answer": "Yes",
+          "Upvotes": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "APPLE iPhone 13 Pro Max (Graphite, 256 GB)",
+      "price": 119300,
+      "discount": 15,
+      "description": "Your perfect phone for everyday use.",
+      "image": [
+        "https://rukminim1.flixcart.com/image/416/416/ktketu80/mobile/3/e/o/iphone-13-pro-max-mll63hn-a-apple-original-imag6vpgwfgxdsj6.jpeg?q=70",
+        "links",
+        "links"
+      ],
+      "rating": {
+        "rate": 4.9,
+        "count": 209
+      },
+      "type": "Rent",
+      "Category": "Mobiles",
+      "stockAvailable": 5,
+      "Reviews": [
+        {
+          "UserName": "Naveen Mowa 2.0",
+          "Heading": "best bDay gift",
+          "Body": "thanks VK",
+          "Rating": 5
+        },
+        {
+          "UserName": "Naveen Mowa 2.0",
+          "Heading": "Best iphone ever",
+          "Body": "This has been my favorite iPhone",
+          "Rating": 4
+        },
+        {
+          "UserName": "Naveen Mowa 2.0",
+          "Heading": "Best iphone ever",
+          "Body": "Best iphone ever",
+          "Rating": 4
+        },
+        {
+          "UserName": "Rithwik",
+          "Rating": 5,
+          "Heading": "Very nice product",
+          "Body": "The iPhone 13 Pro Max has a design very similar to the iPhone 12 Pro Max — the only discernible change is the thicker camera bump which also has a larger square now. This highlights the one part of the phone that has seen significant change over the past year."
+        },
+        {
+          "UserName": "Naveen",
+          "Rating": 5,
+          "Heading": "Best in the market!",
+          "Body": "Need camera software update rest of that everything is fine."
+        },
+        {
+          "UserName": "Nani",
+          "Rating": 5,
+          "Heading": "Fabulous!",
+          "Body": " The phone is excellent. this is my first iPhone. I was considering Samsung galaxy s 21 ultra because of its macro photography. After iPhone launched this new one and announced macro photography ability of the phone I decided to go for this one blindfoldedly. The delivery was delayed because of demand supply difference but it was worth the wait. The first thing I did it was put on the the glass shield and cover. I thought it would kill the looks but it still looks nice. The iOS is very easy to use. Simple to go to all the settings."
+        },
+        {
+          "UserName": "Ravindra",
+          "Rating": 5,
+          "Heading": "Terrific purchase",
+          "Body": "With all the incremental improvements in the areas which really matter - camera, battery and display - this is a beast of an iPhone."
+        },
+        {
+          "UserName": "Chetan",
+          "Rating": 5,
+          "Heading": "Classy product",
+          "Body": "I previously owned the 12 Pro Max and shifted to the 13 and boy I am not disappointed. What I loved most is the camera(pic attached of night photography The pic I uploaded was shot at 7 pm. Apart from the camera, what I liked is the refresh rate when scrolling through supported apps giving me less lag input. Overall I'd choose the iPhone any day over all other smartphone because it's super good and has value for the money that I spent on and the only down side being the cost of it."
+        },
+        {
+          "UserName": "Bhargav",
+          "Rating": 5,
+          "Heading": "Mind-blowing purchase",
+          "Body": "Well I switched from One plus to iphone. Now the fact is this was a dream for me to but a iphone. So bought it. Everything is marvellous.. there are various technical reviews so I am not going to write about it again… Comparing ios with android never made any sense to me because two are completely different platform and for different purpose. Various people gave reviews comparing with android phone which is not practical… understand your need and if you have the money the just go for it.. you wont regret"
+        },
+        {
+          "UserName": "Sravan",
+          "Rating": 5,
+          "Heading": "Awesome",
+          "Body": "This is the best iPhone so far, earlier i used to think iPhones doesn’t have the best battery backup but with this iPhone 13 pro max , it completely changed my view!!!"
+        },
+        {
+          "UserName": "Bobby",
+          "Rating": 5,
+          "Heading": "Best smartphone in this year Camera is just awesome I will say worth it",
+          "Body": "It elevates the already great Iphone experience with a much better (pro motion) display and excellent camera!"
+        },
+        {
+          "UserName": "Jagan",
+          "Rating": 5,
+          "Heading": "One Of The Powerful And Flagship Phone That Can't Get Down In Any Generation",
+          "Body": " I switched from 11 pro max to 13 pro max.As for the phone, it is the best iPhone experience you can have, simple. Yes it is expensive, but if you have your sight set for it, it is the best phone you can buy."
+        },
+        {
+          "UserName": "Pavan",
+          "Rating": 5,
+          "Heading": "Nice phone and camera extra awesome",
+          "Body": "I was very skeptical about the genuineness of the product that I would receive as it was not available in stock in stores. So, I brought all my gut feeling together and made this purchase."
+        }
+      ],
+      "Faq": [
+        {
+          "Question": "Does iphone 13 series sapport satelite phone call connectvity?",
+          "Answer": "Yes, if you duct tape the satellite phone to it",
+          "Upvotes": 1
+        },
+        {
+          "Question": "What is new in this version?",
+          "Answer": "120HZ display, Bigger battery, A15 Bionic chip, Improved performance and many more.",
+          "Upvotes": 2
+        },
+        {
+          "Question": "Refresh rate of iphone 13 pro max?",
+          "Answer": "120HZ(Adaptive)",
+          "Upvotes": 3
+        },
+        {
+          "Question": "battle ground mobile india support in 90 fps or not?",
+          "Answer": "Yes, it supports highest possible fps option, it is the best phone on market. Has 120fps display so 90fps is supported.",
+          "Upvotes": 2
+        },
+        {
+          "Question": "how many mh battery in phone?",
+          "Answer": "Around 4375 MaH",
+          "Upvotes": 7
+        },
+        {
+          "Question": "How much time will it take until a hundred percent charge from zero",
+          "Answer": "Around 80 mins.",
+          "Upvotes": 4
+        },
+        {
+          "Question": "iPhone 13 pro Max is bullet proof",
+          "Answer": "No",
+          "Upvotes": 3
+        },
+        {
+          "Question": "Which charger will be the best for quick charging of this phone?",
+          "Answer": "Aycharger with 30w or more should do. I prefer Anker though..",
+          "Upvotes": 5
+        },
+        {
+          "Question": "I need front camera 50",
+          "Answer": "Find oppo or vivo this phone is only 12",
+          "Upvotes": 2
+        },
+        {
+          "Question": "How much Nanometer in this chipset a 15bionic",
+          "Answer": "5nm",
+          "Upvotes": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Men Blue Regular Fit Faded Casual Denim Shirt",
+      "price": 6354,
+      "discount": 65,
+      "description": "Blue faded casual shirt, has a mandarin collar, long sleeves, button placket, and curved hem",
+      "image": [
+        "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/1353004/2018/9/18/a8acac3a-077a-400f-a1c7-519215a5265e1537251707732-Roadster-Men-Blue-Denim-Washed-Casual-Shirt-5281537251705552-1.jpg",
+        "links",
+        "links"
+      ],
+      "rating": {
+        "rate": 4.5,
+        "count": 180
+      },
+      "type": "Buy",
+      "Category": "Mens",
+      "stockAvailable": 3,
+      "Reviews": [
+        {
+          "UserName": "Rithwik",
+          "Rating": 4,
+          "Heading": "Very nice product",
+          "Body": "Best quality but big size"
+        },
+        {
+          "UserName": "Bhargav",
+          "Rating": 4,
+          "Heading": "Good quality very comfortable",
+          "Body": "Fit as expected"
+        },
+        {
+          "UserName": "Ravindra",
+          "Rating": 5,
+          "Heading": "Good Fitting",
+          "Body": "Good product, same delivery sas hown in the pictures"
+        },
+        {
+          "UserName": "Chetan",
+          "Rating": 4,
+          "Heading": "Nice shirt",
+          "Body": "My size is Medium (M), so I ordered Medium size (M), But it seems like I received large (L) or extra large (XL). But when I saw the size label on the shirt itself it said Medium (M)."
+        },
+        {
+          "UserName": "Bobby",
+          "Rating": 3,
+          "Heading": "Quality is verry good",
+          "Body": "Yes I do like this product as it is good looking. Exact denim colour required. Absolutely good budget shirt."
+        },
+        {
+          "UserName": "Naveen",
+          "Rating": 4,
+          "Heading": "Grt shirt, fits me comfortably, looks grt.very happy with the shirt.",
+          "Body": "The product was very good ..."
+        },
+        {
+          "UserName": "Mahesh",
+          "Rating": 5,
+          "Heading": "it's too good.",
+          "Body": "Color was change... I didn't get which is ur displaying the color in screen.. But whatever i receiving is somewhat better.. That's why iam cool."
+        },
+        {
+          "UserName": "Sravan",
+          "Rating": 5,
+          "Heading": "Very Good,small in size...",
+          "Body": "Yes I do like this product as it is good looking. Exact denim colour required. Absolutely good budget shirt."
+        },
+        {
+          "UserName": "Nani",
+          "Rating": 4,
+          "Heading": "Goood quality",
+          "Body": "Good enough"
+        },
+        {
+          "UserName": "Ramesh",
+          "Rating": 4,
+          "Heading": "Good Product you should try it",
+          "Body": "good fine jeans shirt,fits well,fabric is good,colour is also good,but material is not 100 percent cotton,mix of cotton Nd viscose,good for Oct,Nov but a bit hot in July,aug,overall satisfied,thnks"
+        },
+        {
+          "UserName": "Ravi",
+          "Rating": 3,
+          "Heading": "Not bad",
+          "Body": "Looking great and fitting is also great.. Nice material.. One star reduced because there is no hole for one button.. Otherwise very nice shirt.."
+        },
+        {
+          "UserName": "Tyson",
+          "Rating": 5,
+          "Heading": "Wowww!",
+          "Body": "Just awesome product..I'm very happy... Perfect fittings, high quality cloth..."
+        }
+      ],
+      "Faq": [
+        {
+          "Question": "My chest is 42. Which size will I buy?",
+          "Answer": "L That means 42",
+          "Upvotes": 6
+        },
+        {
+          "Question": "Size chart?",
+          "Answer": "You can find the size chart below the images on the mobile app and on desktop you can find it below the size drop-down list",
+          "Upvotes": 1
+        },
+        {
+          "Question": "Is that color feeded?",
+          "Answer": "So far not. Can't say for future",
+          "Upvotes": 2
+        },
+        {
+          "Question": "Can you send the original photo of shirt",
+          "Answer": "I am sorry sir but there is no options to send images in answers, but I can assure you that the product will look the same.",
+          "Upvotes": 3
+        },
+        {
+          "Question": "It's it returnable",
+          "Answer": "No",
+          "Upvotes": 7
+        },
+        {
+          "Question": "Hey when M size will be available in medium blue colour",
+          "Answer": "Sir by tomorrow max",
+          "Upvotes": 2
+        },
+        {
+          "Question": "Sir , i want light blue in small",
+          "Answer": "Hello sir the stock is on its way, it will be available by tomorrow evening.",
+          "Upvotes": 3
+        },
+        {
+          "Question": "I want jeans shirt in 50xl size",
+          "Answer": "I do not think that this size is available",
+          "Upvotes": 5
+        },
+        {
+          "Question": "My shirt size is 42 is it called large",
+          "Answer": "Yes. It is large.",
+          "Upvotes": 1
+        },
+        {
+          "Question": "Can you tell me the model which is shown in this page wear which size T-shirt.? Actually my body figure and the model's fig is same.which size I need?",
+          "Answer": "The model wore and L size in this Photoshoot, so accordingly you can order sir",
+          "Upvotes": 2
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Men Blue Straight Fit Mid Rise Heavy Fade Stretchable Jeans",
+      "price": 3291,
+      "discount": 55,
+      "description": "Light shade, heavy fade blue jeans Straight fit, mid-rise Clean look Stretchable 5 pocket",
+      "image": [
+        "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/15248534/2021/10/20/d658aaa9-dd2e-424c-98a6-8df71abaf0be1634729694763-Nautica-Men-Jeans-4551634729693996-5.jpg",
+        "links",
+        "links"
+      ],
+      "rating": {
+        "rate": 3.7,
+        "count": 1240
+      },
+      "type": "Buy",
+      "Category": "Mens",
+      "stockAvailable": 101,
+      "Reviews": [
+        {
+          "UserName": "Naveen12",
+          "Heading": "great material",
+          "Body": "faded after 108276 washes",
+          "Rating": 1
+        },
+        {
+          "UserName": "Naveen Kumar",
+          "Heading": "loose pitting",
+          "Body": "kistha chirigindhi bro",
+          "Rating": 4
+        },
+        {
+          "UserName": "Naveen Mowa 2.0",
+          "Heading": "Nice fit",
+          "Body": "very comfortable pants",
+          "Rating": 4
+        },
+        {
+          "UserName": "Nani",
+          "Rating": 5,
+          "Heading": "Very nice product",
+          "Body": "super quality with good fitting.."
+        },
+        {
+          "UserName": "Naveen",
+          "Rating": 5,
+          "Heading": "Very good product",
+          "Body": "Same as picture. My husband hip sz 34 I bought 32 it's perfect for him. He love it. Thanks for Electorent."
+        },
+        {
+          "UserName": "Rithwik",
+          "Rating": 4,
+          "Heading": "Good cloth and nice fit",
+          "Body": "Waist was wrongly sent as 34 instead of 32. Otherwise also it was too tight at thighs. I had returned it"
+        },
+        {
+          "UserName": "Ravindra",
+          "Rating": 3,
+          "Heading": "Color Changed!",
+          "Body": "Color is not as expected. The piece is like an old one"
+        },
+        {
+          "UserName": "Battu",
+          "Rating": 2,
+          "Heading": "Bad quality!",
+          "Body": "In 1st wear itself loop stiches came out ens pockst cloth started getting hole"
+        },
+        {
+          "UserName": "Chetan",
+          "Rating": 3,
+          "Heading": "Good fitting. Nice look.",
+          "Body": "INNER SIDE SHOULD BE UNDYED,SO PLEASE RECTIFYFABRIC QUALITY"
+        },
+        {
+          "UserName": "Bhargav",
+          "Rating": 5,
+          "Heading": "Excellent!",
+          "Body": "Right now it's hard to get a standard regular fit with all these newfangled design names like 'carrot fit' which frankly I don't even understand what they are trying to convey."
+        },
+        {
+          "UserName": "Sravan",
+          "Rating": 1,
+          "Heading": "Total waste of money",
+          "Body": "very unsatisfied with product.....Please dont waste your money......"
+        },
+        {
+          "UserName": "David",
+          "Rating": 4,
+          "Heading": "Decent Product.",
+          "Body": "Reading the reviews it was with trepidation that i ordered these jeans. they are very good in terms of thickness of cloth, stitching and finish. Look a lot like Levis, but at an affordable rate."
+        },
+        {
+          "UserName": "John",
+          "Rating": 5,
+          "Heading": "WWWOOWWW!.",
+          "Body": "Very thin jeans, of course comfortable. Being streached one size should be one less than usual size. Please mention TC of cloth always, otherwise difficult to understand quality of cloth."
+        }
+      ],
+      "Faq": [
+        {
+          "Question": "Whats the length ?",
+          "Answer": "Min 40 inch from waist",
+          "Upvotes": 1
+        },
+        {
+          "Question": "If not fitted on phisicaly then what i do",
+          "Answer": "If jeans doesn't fit you, u can return the same",
+          "Upvotes": 8
+        },
+        {
+          "Question": "what is the cotton percentage in jeans?",
+          "Answer": "70% COTTON",
+          "Upvotes": 5
+        },
+        {
+          "Question": "Is this stechable",
+          "Answer": "Yes it is... littke .much.....its very soft.. go for it",
+          "Upvotes": 6
+        },
+        {
+          "Question": "how to 40inch stecheble",
+          "Answer": "It expand 2 inches,I ordered 48 size, perfect size and color",
+          "Upvotes": 1
+        },
+        {
+          "Question": "What is difference between relaxed fit,regular fit and skin fit?",
+          "Answer": "It s a comfset fit",
+          "Upvotes": 6
+        },
+        {
+          "Question": "What is my promo code ?",
+          "Answer": "Nothing",
+          "Upvotes": 8
+        },
+        {
+          "Question": "I reacved not exact colour,i booked dark colour.it is quality wise very poor,i want replace the product",
+          "Answer": "Plz apply for return request",
+          "Upvotes": 2
+        },
+        {
+          "Question": "How can I get this product",
+          "Answer": "In Corrier",
+          "Upvotes": 1
+        },
+        {
+          "Question": "What's it's delivery charge",
+          "Answer": "No delivery charges",
+          "Upvotes": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Men Black & Charcoal Grey HOVR Apex 2 Woven Design & Striped Training Shoes",
+      "price": 5600,
+      "discount": 25,
+      "description": "An absolute perfect sports shoes for you, HURRY UP!",
+      "image": [
+        "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/12247308/2021/6/4/f210363f-8c55-42bc-a6f0-238077c18bc41622789741703-UNDER-ARMOUR-Men-Sports-Shoes-8471622789741281-5.jpg",
+        "links",
+        "links"
+      ],
+      "rating": {
+        "rate": 4.6,
+        "count": 5586
+      },
+      "type": "Buy",
+      "Category": "Mens",
+      "stockAvailable": 2000,
+      "Reviews": [
+        {
+          "UserName": "Naveen Mowa 2.0",
+          "Heading": "Very comfy",
+          "Body": "Comfortable and stylish shoes",
+          "Rating": 4
+        },
+        {
+          "UserName": "Naveen",
+          "Rating": 5,
+          "Heading": "Very nice product",
+          "Body": "They are good for walking but definitely not for running. Look wise they are great. comfortable in wearing for long hours and you will surely love its foam padding."
+        },
+        {
+          "UserName": "Nani",
+          "Rating": 5,
+          "Heading": "Awesome!",
+          "Body": "They are good for walking but definitely not for running. Look wise they are great. comfortable in wearing for long hours and you will surely love its foam padding."
+        },
+        {
+          "UserName": "Naresh",
+          "Rating": 5,
+          "Heading": "Value for money.",
+          "Body": "in this price its a very good product light weight and grippy ....And it have memory foam too."
+        },
+        {
+          "UserName": "Rakesh",
+          "Rating": 5,
+          "Heading": "good quality.",
+          "Body": "premium finish... price worthy"
+        },
+        {
+          "UserName": "Rithwik",
+          "Rating": 5,
+          "Heading": "TOO GOOD!",
+          "Body": "This is too good to buy Worth the money It has memory foam"
+        },
+        {
+          "UserName": "Ravindra",
+          "Rating": 4,
+          "Heading": "GOOODDDD!",
+          "Body": "One of the Nice shoes in rage"
+        },
+        {
+          "UserName": "Chetan",
+          "Rating": 5,
+          "Heading": "Very Good!",
+          "Body": "Very very soft interiors. Go for one size big as my std size fits only without socks.One star less bcoz the back of the ankle scrubs the skin causing irritation. With socks shouldn’t be an issue."
+        },
+        {
+          "UserName": "Eshwar",
+          "Rating": 5,
+          "Heading": "Amazing!",
+          "Body": "Best shoes in this price , very comfortable ,lightweight, stylish . Awesome shoes"
+        },
+        {
+          "UserName": "Srinu",
+          "Rating": 3,
+          "Heading": "OK!",
+          "Body": "small difrence between picture or reality in color."
+        },
+        {
+          "UserName": "Tagore",
+          "Rating": 5,
+          "Heading": "Excellent!.",
+          "Body": "Excellent delivery, but packaging could have been better. Just a flimsy shoe box with packing tape"
+        }
+      ],
+      "Faq": [
+        {
+          "Question": "How is the Sole, is it rigid or bending while walking?",
+          "Answer": "It's not rigid , it's bending",
+          "Upvotes": 2
+        },
+        {
+          "Question": "do we need to wear socks for this shoe? if not wearing socks, will there be bad smell?",
+          "Answer": "You can use them both with shocks and without shocks.",
+          "Upvotes": 5
+        },
+        {
+          "Question": "can i use with out socks? if not wearing socks, It will be bad smell ?",
+          "Answer": "It is pretty good shoe you can use it without socks . No tension",
+          "Upvotes": 3
+        },
+        {
+          "Question": "What is the meaning of Vega 1,2,3 and which one is best?",
+          "Answer": "I don't think literally there is any difference other than colour..",
+          "Upvotes": 1
+        },
+        {
+          "Question": "how about Ventilation? is upper material soft ? please help.!!",
+          "Answer": "Ventilation is good. Material is soft feel like little nylon stuff. Light and fits well.",
+          "Upvotes": 3
+        },
+        {
+          "Question": "Why smaller sizes are not available? I need size 5",
+          "Answer": "May be out of stock, notify seller though customer care.",
+          "Upvotes": 3
+        },
+        {
+          "Question": "what is the actual weight of each one shoe? is it water proof and can use in wet soil and when raining",
+          "Answer": "Light weight. Not at all water resistant. Synthetic cloth shoe.",
+          "Upvotes": 3
+        },
+        {
+          "Question": "Is these are waterproof?",
+          "Answer": "No. Made from knitted fabric called mesh. So, they can't be waterproof. But you may wash it.",
+          "Upvotes": 2
+        },
+        {
+          "Question": "can i use this shoe in rainy season?",
+          "Answer": "No it’s not Rainy Season shoes",
+          "Upvotes": 6
+        },
+        {
+          "Question": "The insoles have damaged. Can i buy them individually from the store?",
+          "Answer": "Only if you are comfortable with the soles.",
+          "Upvotes": 4
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Men Grey Analogue Watch FC-775G4S4",
+      "price": 153274,
+      "discount": 65,
+      "description": "The Amazing Premium watch you cant find any where, Gives you Pemium Feeling",
+      "image": [
+        "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/12/27/3c5bc598-2093-48df-8e7c-6329adf0c2661577401172457-1.jpg",
+        "links",
+        "links"
+      ],
+      "rating": {
+        "rate": 4.5,
+        "count": 190
+      },
+      "type": "Buy",
+      "Category": "Accessories",
+      "stockAvailable": 0,
+      "Reviews": [
+        {
+          "UserName": "Naveen",
+          "Rating": "5 stars",
+          "Review": "Very nice product"
+        },
+        {
+          "UserName": "Nani",
+          "Rating": 5,
+          "Review": "Wow very nice watch. Original product good leather belt and looking so cool. Thank u amazon send me original fastrack watch"
+        },
+        {
+          "UserName": "Naresh",
+          "Rating": 4,
+          "Heading": "Very Impressive",
+          "Body": "Very nice watch with a cool look."
+        },
+        {
+          "UserName": "Mohan",
+          "Rating": 5,
+          "Heading": " Cool...Value for money",
+          "Body": "Overall very satisfying but In my case I don't found any warranty card in the box and after contacting amzaon they tell me your invoice will also work as warranty card."
+        },
+        {
+          "UserName": "Manoj",
+          "Rating": 5,
+          "Heading": "this one for you!",
+          "Body": "A Genuine Fastrack Watch. I got it checked from Nearest Titan World showroom. Go for it if you sepect this one for you."
+        },
+        {
+          "UserName": "Charan",
+          "Rating": 5,
+          "Heading": "Excellent!",
+          "Body": "I bought this watch for someone special on his birthday and he loved the watch and the watch was also delivered on time."
+        },
+        {
+          "UserName": "Tharak",
+          "Rating": 4,
+          "Heading": "very Nice!",
+          "Body": "Nice watch came with good packing.Dail is little weight and the time adjusting button is very loose.If the seller could provide warranty of the product that will be great.Otherwise its nice."
+        },
+        {
+          "UserName": "Karan",
+          "Rating": 4,
+          "Heading": "Absolutely AMazing!",
+          "Body": "The watch is good I had bought it for my brother and he really liked it"
+        },
+        {
+          "UserName": "Irfan",
+          "Rating": 3,
+          "Heading": "Okay!",
+          "Body": "The dial is awesome.. but the belt quality can be better"
+        },
+        {
+          "UserName": "Rohith",
+          "Rating": 4,
+          "Heading": "Good!",
+          "Body": "Watch is good quality is best but the look doesn't suit heavy arms but good for those having thin arms"
+        }
+      ],
+      "Faq": [
+        {
+          "Question": "is it a big dial watch ? can it fit in skinny hands ?",
+          "Answer": "Not big dial",
+          "Upvotes": 1
+        },
+        {
+          "Question": "does the dial is Fourty one mm or Thirty mm? in description it is showing as Thirty mm.",
+          "Answer": "Thirty mm",
+          "Upvotes": 2
+        },
+        {
+          "Question": "its warranty is for how many times",
+          "Answer": "2 years",
+          "Upvotes": 4
+        },
+        {
+          "Question": "How to get warranty card ?",
+          "Answer": "warranty card is inside the watch box . if you have not received ,please contact the seller",
+          "Upvotes": 5
+        },
+        {
+          "Question": "this product is waterproof ?",
+          "Answer": "yes upto 50 meters",
+          "Upvotes": 3
+        },
+        {
+          "Question": "does the strap get discoloured due to sweat",
+          "Answer": "Yes",
+          "Upvotes": 3
+        },
+        {
+          "Question": "What is the Strap size?",
+          "Answer": "Fit for a average size man",
+          "Upvotes": 1
+        },
+        {
+          "Question": "where can I find strap for this watch?",
+          "Answer": "company outlet.",
+          "Upvotes": 5
+        },
+        {
+          "Question": "is it a big dial watch ? can it fit in skinny hands ?",
+          "Answer": "Yes. It fits perfectly.",
+          "Upvotes": 3
+        },
+        {
+          "Question": "What are the dimensions of this item?",
+          "Answer": "5ATM/50m Water resistance. Genuine calf leather strap. Stainless steel back cover. High precision",
+          "Upvotes": 2
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "White 2nd Gen AirPods with Charging Case",
+      "price": 12990,
+      "discount": 45,
+      "description": "Perfect Bluetoth Earphones in these season just go and buy it!",
+      "image": [
+        "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/9803279/2019/10/11/08d246d9-80d1-4c61-8826-2074624aa0521570782280949-Apple-White-2nd-Gen-AirPods-with-Charging-Case-MV7N2HNA-1181-4.jpg",
+        "links",
+        "links"
+      ],
+      "rating": {
+        "rate": 4.9,
+        "count": 120
+      },
+      "type": "Rent",
+      "Category": "Accessories",
+      "stockAvailable": 99,
+      "Reviews": [
+        {
+          "UserName": "Nani",
+          "Rating": 4,
+          "Heading": "Good!",
+          "Body": "Got it delivered before time, i think apple products are overpriced but the quality is par excellence, the new version comes with wireless case support and the new H1 chip and other than that there is no difference in quality if you compare with previous generation Airpods.One star less because i did not find it worth in terms of price"
+        },
+        {
+          "UserName": "Naveen",
+          "Rating": 5,
+          "Heading": "Nice Product!",
+          "Body": "Quality product. Nice sound and also durable. Wireless charging is a plus point."
+        },
+        {
+          "UserName": "Naresh",
+          "Rating": 5,
+          "Heading": "Premium quality!",
+          "Body": "It's really premium quality product from Apple and quality do not comes cheap. Whoever think about Apple better you do not consider price."
+        },
+        {
+          "UserName": "Rithwik",
+          "Rating": 5,
+          "Heading": "Great!",
+          "Body": "Great experience, makes life easy"
+        },
+        {
+          "UserName": "Ravindra",
+          "Rating": 5,
+          "Heading": "I love it!",
+          "Body": "Of course it’s expensive Cus it’s APPLE BUT simply amazing # TECHNOLOGY# is amazing I love it # highly recommended# 10 stars for the seller"
+        },
+        {
+          "UserName": "Chetan",
+          "Rating": 2,
+          "Heading": "Poor!",
+          "Body": "Just few months after an year, to be accurate 12 months since purchase left AirPod failed."
+        },
+        {
+          "UserName": "Jadhav",
+          "Rating": 5,
+          "Heading": "Worth it!",
+          "Body": "Writing this after ten days of usage.The delivery was delayed, but the product works as expected.Sound quality is perfect - no complaints."
+        },
+        {
+          "UserName": "Kamal",
+          "Rating": 5,
+          "Heading": "Very good product!",
+          "Body": "Very good product its compact easy to use especially with iPhones"
+        },
+        {
+          "UserName": "Harsha",
+          "Rating": 5,
+          "Heading": "Amazing!",
+          "Body": "It’s a no brainer if you own an apple iphone. It’s connects seamlessly every time and unlike other ear buds, the call or music is transferred from the iphone automatically."
+        },
+        {
+          "UserName": "Murali",
+          "Rating": 5,
+          "Heading": " Just the perfect one ! ",
+          "Body": "Very very very Gooooddddd I Loved It."
+        }
+      ],
+      "Faq": [
+        {
+          "Question": "Does all the feautre work with iphone 6",
+          "Answer": "AirPods work with all iPhone, iPad, and iPod touch models that run iOS 10 or later. This includes the iPhone 5 and newer, the iPad mini 2 and newer, the fourth-generation iPad and newer, the iPad Air models, all iPad Pro models, and the 6th-generation iPod touch.",
+          "Upvotes": 1
+        },
+        {
+          "Question": "Why warrenty is not been shown here???",
+          "Answer": "Warranty is for a year.",
+          "Upvotes": 5
+        },
+        {
+          "Question": "What about music and bass",
+          "Answer": "Both Superb",
+          "Upvotes": 4
+        },
+        {
+          "Question": "Microphone exist or not",
+          "Answer": "No",
+          "Upvotes": 1
+        },
+        {
+          "Question": "Is it returnable.??",
+          "Answer": "I dont know we can return them or not but honestly I didn’t even tried for that i just wanted airpods and just ordered one",
+          "Upvotes": 9
+        },
+        {
+          "Question": "What’s the difference between wired and wireless in AirPods 2",
+          "Answer": "I believe the latter supports wireless charging.",
+          "Upvotes": 5
+        },
+        {
+          "Question": "Will we get refund",
+          "Answer": "Depends why you are claiming the refund...please refer to the T&C of Electrorent related to this product.",
+          "Upvotes": 14
+        },
+        {
+          "Question": "This air pods using samsung j7nxt phone",
+          "Answer": "Android user can’t use all features AirPods it’s specially made for apple users",
+          "Upvotes": 7
+        },
+        {
+          "Question": "Can it work on honor 9lite",
+          "Answer": "Yes, but all feature and function doesn't work.",
+          "Upvotes": 5
+        },
+        {
+          "Question": "Does it work on nokia 8.1",
+          "Answer": "As per my understanding It will work on any Bluetooth device phone...",
+          "Upvotes": 1
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "acer Predator Helios 300 Octa Core i7 10th Gen",
+      "price": 109990,
+      "discount": 15,
+      "description": "If you are often left disappointed by your gaming experience, then you can check out the Acer Predator Helios 300 PH315-53 Gaming Laptop designed for immersive entertainment in every aspect. This device features a 39.6 cm (15.6) FHD IPS Display for rich visuals, Ray Tracing for visually intense games, and DTS X Ultra for clear and immersive sound on your headphones or speakers.",
+      "image": [
+        "https://rukminim1.flixcart.com/image/312/312/kuvkcy80/computer/x/s/4/na-gaming-laptop-acer-original-imag7whp2f8fgpaz.jpeg?q=70",
+        "links",
+        "links"
+      ],
+      "rating": {
+        "rate": 4.7,
+        "count": 120
+      },
+      "type": "Rent",
+      "Category": "Accessories",
+      "stockAvailable": 79,
+      "Reviews": [
+        {
+          "UserName": "Nani",
+          "Rating": 5,
+          "Heading": "Very nice product",
+          "Body": ""
+        },
+        {
+          "UserName": "Naveen",
+          "Rating": 5,
+          "Heading": " Go For it....!!",
+          "Body": "Almost all software available in the market is optimized to give the best performance with Intel processors and here you got the latest 11 generation intel i5 Hexa core processor."
+        },
+        {
+          "UserName": "Naresh",
+          "Rating": 5,
+          "Heading": "Very Nice!",
+          "Body": "one of the best thermals out there intels new Alder Lake CPU with Nvidia RTX 3050 for smooth gaming personally using it and liked it so much"
+        },
+        {
+          "UserName": "Rithwik",
+          "Rating": 5,
+          "Heading": "Amazing Product",
+          "Body": "one of the best thermals out there intels new Alder Lake CPU with Nvidia RTX 3050 for smooth personally using it and liked it so much Just add another ssd for even better performance"
+        },
+        {
+          "UserName": "Ravindra",
+          "Rating": 5,
+          "Heading": "Amazing",
+          "Body": "The perfect processor for gaming and multitasking, really competes with 5600h processor, for gaming go for Intel."
+        },
+        {
+          "UserName": "Chetan",
+          "Rating": 5,
+          "Heading": " Cool...Value for money",
+          "Body": "For gaming and productivity this is hell of a beast in this price range. Aah and yeah battery is not too good but it can easily survive for approx 2:30 hr of normal usage. And at first I got deffective piece but got replaced in 2-3 days which is impressive. "
+        },
+        {
+          "UserName": "Bhargav",
+          "Rating": 5,
+          "Heading": "Wowww!",
+          "Body": "Its an excellent laptop, Worth the price!!"
+        },
+        {
+          "UserName": "Ram",
+          "Rating": 4,
+          "Heading": "OK!",
+          "Body": " Amazing Product but not perfect."
+        },
+        {
+          "UserName": "Yash",
+          "Rating": 5,
+          "Heading": "Very Nice",
+          "Body": "I bought this laptop , great experience apart from the speakers you can barely hear anything on full volume & the battery life isnt the best at all , will last maybe 4-5 hrs doing normal tasks but about 2 hrs max on gaming , everything else is good though"
+        },
+        {
+          "UserName": "Stalin",
+          "Rating": 4,
+          "Heading": " Good laptop but poor battery!",
+          "Body": "Except that everything is the best than any laptop at this price."
+        }
+      ],
+      "Faq": [
+        {
+          "Question": "Can i upgrade windows 11",
+          "Answer": "Yes",
+          "Upvotes": 5
+        },
+        {
+          "Question": "If we add 1tb hardisk",
+          "Answer": "It's already come with 1tb hdd",
+          "Upvotes": 4
+        },
+        {
+          "Question": "Whether it has seperate numeric keypad",
+          "Answer": "Yes it has separate numeric keypad",
+          "Upvotes": 5
+        },
+        {
+          "Question": "Is there any button to control cooling fan system like asus tuf??",
+          "Answer": "Yes,It has",
+          "Upvotes": 8
+        },
+        {
+          "Question": "Does it have an addition ram slot?",
+          "Answer": "yes",
+          "Upvotes": 3
+        },
+        {
+          "Question": "Does it have an international warraty",
+          "Answer": "Yes",
+          "Upvotes": 7
+        },
+        {
+          "Question": "Mane electricals seller safe or not it's cheap on this seller will I get fully working product",
+          "Answer": "I also got it from the same seller n it's all good",
+          "Upvotes": 3
+        },
+        {
+          "Question": "Does it have a charger?",
+          "Answer": "Yes",
+          "Upvotes": 6
+        },
+        {
+          "Question": "We can extend graphic card?",
+          "Answer": "Yes",
+          "Upvotes": 1
+        },
+        {
+          "Question": "in 16gb viariant, is there one ram of 16gb in one slot or 2 8gb rams in two slots? basically (1x16gb) or (2x8gb)? please answer for latest.",
+          "Answer": "Not sure. It should one 16GB variant because the memory can be upgraded even further",
+          "Upvotes": 2
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Canon EOS 7D Mark II DSLR Camera",
+      "price": 100999,
+      "discount": 15,
+      "description": "Photography is one passion where enough is never enough. If you are looking to upgrade your camera and already have a set of attachments or lenses for your Canon camera, look no further. This camera body features a superb 20.2 megapixel CMOS sensor, ISO 16,000, and is powered by dual DIGIC 6 image processors. All this results in impeccable imaging quality in shooting conditions and lighting situations. The Dual Pixel CMOS AF function featured on this Canon EOS7D Mark II DSLR Camera body provides smooth and accurate focusing when shooting videos so that subjects always remain in focus even in the most dynamic scenes.",
+      "image": [
+        "https://rukminim1.flixcart.com/image/312/312/camera/s/q/f/canon-eos-7d-mark-ii-body-dslr-original-imae3yryhwq7fgyx.jpeg?q=70",
+        "links",
+        "links"
+      ],
+      "rating": {
+        "rate": 4.6,
+        "count": 120
+      },
+      "type": "Rent",
+      "Category": "Accessories",
+      "stockAvailable": 24,
+      "Reviews": [
+        {
+          "UserName": "Nani",
+          "Rating": 5,
+          "Heading": "Very nice product",
+          "Body": "Too good fully satisfied"
+        },
+        {
+          "UserName": "Naveen",
+          "Rating": 5,
+          "Heading": " Go For it....!!",
+          "Body": "The product was very good ..."
+        },
+        {
+          "UserName": "Naresh",
+          "Rating": 5,
+          "Heading": " Good camera for beginners, must try it!",
+          "Body": "Great experience, makes life easy"
+        },
+        {
+          "UserName": "Rithwik",
+          "Rating": 5,
+          "Heading": "Amazing Product",
+          "Body": "Great experience, makes life easy"
+        },
+        {
+          "UserName": "Ravindra",
+          "Rating": 5,
+          "Heading": "OK!",
+          "Body": "Great camera. Perfect product for young budding photographer."
+        },
+        {
+          "UserName": "Chetan",
+          "Rating": 5,
+          "Heading": "Great!",
+          "Body": " Best basic level dslr mainly for wireless remote controlling worth for group pics"
+        },
+        {
+          "UserName": "Bhargav",
+          "Rating": 4,
+          "Heading": "Great!",
+          "Body": " Its an excellent Camera, Worth the price!!"
+        },
+        {
+          "UserName": "Ram",
+          "Rating": 4,
+          "Heading": "Not Bad!",
+          "Body": " Amazing Product but not perfect."
+        },
+        {
+          "UserName": "Yash",
+          "Rating": 5,
+          "Heading": "Terrific purchase",
+          "Body": "I bought this Camera, great experience apart from that the battery life isnt the best at all , will last maybe 4-5 hrs doing normal tasks but about 2 hrs max on gaming , everything else is good though"
+        },
+        {
+          "UserName": "Stalin",
+          "Rating": 4,
+          "Heading": "TOO GOOD!",
+          "Body": " Good Camera but poor battery!"
+        }
+      ],
+      "Faq": [
+        {
+          "Question": "Will this support canon EF 50mm lens?",
+          "Answer": "Yes it support 50 mm lens",
+          "Upvotes": 1
+        },
+        {
+          "Question": "Is canon 1500d camera a good functional camera",
+          "Answer": "Yes Very Good..",
+          "Upvotes": 2
+        },
+        {
+          "Question": "Where can I buy extra memory card for this camera?",
+          "Answer": "Order separately",
+          "Upvotes": 3
+        },
+        {
+          "Question": "It include screen protector for lcd??",
+          "Answer": "No u have to buy it saperately",
+          "Upvotes": 5
+        },
+        {
+          "Question": "Can I use boya external microphone",
+          "Answer": "No",
+          "Upvotes": 2
+        },
+        {
+          "Question": "What will be the price with 55-250mm if i toake it in great indian festival or sale",
+          "Answer": "About 12500.00",
+          "Upvotes": 1
+        },
+        {
+          "Question": "Does this dslr have an articulating screen?",
+          "Answer": "i need Exchange off ..?? i have buy canon 1500D Apr",
+          "Upvotes": 4
+        },
+        {
+          "Question": "Is it work in zoom app in live classes",
+          "Answer": "No",
+          "Upvotes": 2
+        },
+        {
+          "Question": "What are the items that bag included?",
+          "Answer": "Camera, lense",
+          "Upvotes": 2
+        },
+        {
+          "Question": "Can i get this camera in Rent?",
+          "Answer": "Yes, We have Buy/Rent option",
+          "Upvotes": 1
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "SONY X80J 164 cm (65 inch) Ultra HD (4K) LED Smart TV",
+      "price": 105500,
+      "discount": 15,
+      "description": "The SONY X80J 4K Ultra HD High Dynamic Range (HDR) Smart TV lets you amplify your TV watching experience with stunning visuals, immersive sound, vibrant colours, and a large screen. With TRILUMINOS PRO technology and 4K1 HDR Processor X1, it delivers lifelike picture quality with amazing colours. This smart TV comes with an Apple AirPlay feature that allows you to stream your favourite content from your iPhone or Mac to your TV. Furthermore, its Dolby Atmos feature provides you with a theatre-like experience at home with an immersive and multi-dimensional sound.",
+      "image": [
+        "https://rukminim1.flixcart.com/image/312/312/kqqykcw0/television/1/f/n/kd-65x80j-sony-original-imag4p2wxahgfgmf.jpeg?q=70",
+        "links",
+        "links"
+      ],
+      "rating": {
+        "rate": 4.5,
+        "count": 22970
+      },
+      "type": "Rent",
+      "Category": "Accessories",
+      "stockAvailable": 3,
+      "Reviews": [
+        {
+          "UserName": "Nani",
+          "Rating": 5,
+          "Review": "Very nice product"
+        },
+        {
+          "UserName": "Naveen",
+          "Rating": 4,
+          "Heading": " Go For it....!!",
+          "Body": "The product was very good ..."
+        },
+        {
+          "UserName": "Naresh",
+          "Rating": 5,
+          "Heading": "Value for money.",
+          "Body": "It's quite a big TV with stunning display and excellent sound. Installation was excellent. Nice service as well."
+        },
+        {
+          "UserName": "Rithwik",
+          "Rating": 5,
+          "Heading": "Amazing Product",
+          "Body": "The product was very good ..."
+        },
+        {
+          "UserName": "Ravindra",
+          "Rating": 3,
+          "Heading": " Overall ok",
+          "Body": "Overall nice tv. but only 4.4 gb storage??????? and 1.2 gb only usable storage????? Can't install more than 4-5apps, it says delete some data. Forget about games."
+        },
+        {
+          "UserName": "Chetan",
+          "Rating": 5,
+          "Heading": "Amazing Product",
+          "Body": " An excellent television with the latest features!"
+        },
+        {
+          "UserName": "Bhargav",
+          "Rating": 5,
+          "Heading": "Awesome!",
+          "Body": " Its an excellent Television, Worth the price!!"
+        },
+        {
+          "UserName": "Ram",
+          "Rating": 4,
+          "Heading": " Amazing Product.",
+          "Body": "Too good fully satisfied"
+        },
+        {
+          "UserName": "Yash",
+          "Rating": 3,
+          "Heading": "Okay!",
+          "Body": " No Display, Only Sound after 45 days."
+        },
+        {
+          "UserName": "Stalin",
+          "Rating": 4,
+          "Heading": " Good tv but poor Display!",
+          "Body": "Yes I do like this product as it is good looking."
+        }
+      ],
+      "Faq": [
+        {
+          "Question": "This tv have google play store ? This is fully android tv ?",
+          "Answer": "Hi, thank you for the query.KD-65X80J- The first google TV, powered with an all-new Triluminos Pro, X1 4K HDR Processor, X-Balanced Speaker & Dolby Atmos Vision. Users can install from the “Search for Apps” Bar to install the available app.",
+          "Upvotes": 1
+        },
+        {
+          "Question": "Does it have ethernet connection?",
+          "Answer": "Yes",
+          "Upvotes": 6
+        },
+        {
+          "Question": "What is the minimum distance required for optimum viewing of this TV?",
+          "Answer": "Thanks for your query.Recommended distance for viewing a 4K TV is 1.5 times the TV vertical screen size. Viewed from this distance, individual pixels cannot be differentiated by naked eyes.",
+          "Upvotes": 9
+        },
+        {
+          "Question": "Whats the panel type of sony x80j 50 inches tv - va or ips ?",
+          "Answer": "Direct led type panel..high quality picture",
+          "Upvotes": 4
+        },
+        {
+          "Question": "Post delivery do we need to call someone for installation or Sony will automatically arrange?",
+          "Answer": "In my case Sony Center called and installed the same day. Excellent service and fast installation",
+          "Upvotes": 2
+        },
+        {
+          "Question": "What's the best price offered in offline",
+          "Answer": "Electorent offers best price",
+          "Upvotes": 2
+        },
+        {
+          "Question": "This tv doesnt have USB?",
+          "Answer": "This model has 2 USB ports at the side of the TV.",
+          "Upvotes": 3
+        },
+        {
+          "Question": "Does this tv support installation & running of tata sky app just like it supports airtel xtreme app using which dth can be viewed without stb",
+          "Answer": "Hi,It has the play store to download the available applications. Users can download the available and supported applications from the play store.",
+          "Upvotes": 4
+        },
+        {
+          "Question": "Can it be mounted on the wall?",
+          "Answer": "Yes, it can be mounted on wall.",
+          "Upvotes": 3
+        },
+        {
+          "Question": "Dts x and dolby atmas support",
+          "Answer": "This model supports Dolby audio and Dolby Atmos.",
+          "Upvotes": 2
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "BELL END Cotton, Memory Foam, Microfibre Solid Sleeping Pillow Pack of 2  (White)",
+      "price": "699",
+      "discount": 15,
+      "description": "Filling Material: Cotton, Memory Foam, Microfibre Size is  62 cm x 44 cm Type is Sleeping Pillow Suitable Location: Living Room, Bed Room",
+      "image": [
+        "https://rukminim1.flixcart.com/image/416/416/kwi5evk0/pillow/j/o/k/10-bellend-2-p-2-pillow-ss02-bell-end-original-imag95x9hzkfd8zg.jpeg?q=70",
+        "links",
+        "links"
+      ],
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      },
+      "type": "Buy",
+      "Category": "Home",
+      "stockAvailable": 1002,
+      "Reviews": [
+        {
+          "UserName": "Rithwik",
+          "Rating": 5,
+          "Heading": "Very nice product",
+          "Body": "Too good fully satisfied"
+        },
+        {
+          "UserName": "Chetan",
+          "Rating": 5,
+          "Heading": "Too good fully satisfied",
+          "Body": "It was trending as the best seller. But after purchasing it I realised that generic material has been used in the making of this item."
+        },
+        {
+          "UserName": "Ravindra",
+          "Rating": 2,
+          "Heading": " Not good",
+          "Body": "this product is very bad in quality. its shoulder strips are not good after two days use the strip break. there is a cover for cover the bag during raining season."
+        },
+        {
+          "UserName": "Sravan",
+          "Rating": 1,
+          "Heading": " Low quality product.",
+          "Body": "I thought it must be more strong.no doubt it is strong but the fear to carry less things is maintained."
+        },
+        {
+          "UserName": "Naveen",
+          "Rating": 5,
+          "Heading": " Useful multi-purpose",
+          "Body": "Good Product... Light Waight & Nice Looking Bag... Bag Is Too Short..."
+        },
+        {
+          "UserName": "Bhargav",
+          "Rating": 5,
+          "Heading": " Good quality..",
+          "Body": " Can put your laptop and I pads with safety,Very nice style and colour.Not soo big neither too small.Also useful for office."
+        },
+        {
+          "UserName": "Mahesh",
+          "Rating": 3,
+          "Heading": "Not Bad!",
+          "Body": "This bag is good for college and office purposes. It's very attractive and has good looks. The bag comes with a bag cover for covering the bag during rainy season. I don't think big laptop will fit in this bag but it has shelf for laptop."
+        },
+        {
+          "UserName": "Akhanda",
+          "Rating": 5,
+          "Heading": "Good for students",
+          "Body": "The bag is good according to its price. But I find that the chains of the bag are not easily moving."
+        },
+        {
+          "UserName": "Nani",
+          "Rating": 5,
+          "Heading": "5.0 out of 5 stars Best bag at best price",
+          "Body": "Quality is not bad. Bag containing 2 bottle holders which is nice . Space is also ok."
+        },
+        {
+          "UserName": "Naresh",
+          "Rating": 3,
+          "Heading": " Good looking bag but chains are not good",
+          "Body": "Not of good quality - average price is shown originally at high price and offering at a lower rate but it shows of poor in quality"
+        },
+        {
+          "UserName": "Pavan",
+          "Rating": 4,
+          "Heading": "Useful and beneficial",
+          "Body": "Good quality and as per descrption in the item details. Although the raincover is just a piece of polythene. But still it serves the purpose."
+        },
+        {
+          "UserName": "Chaari",
+          "Rating": 3,
+          "Heading": " Not of Good Quality",
+          "Body": "I liked there promises for rain cover in a average price ,but rain cover is too small that it can not protect your belongings to take shower in rain,there is strong possibility that at least your will suffer one time due to pseudo rain protection feeling."
+        },
+        {
+          "UserName": "Ram",
+          "Rating": 3,
+          "Heading": " Overall ok",
+          "Body": "Not in quality"
+        },
+        {
+          "UserName": "Messi",
+          "Rating": 2,
+          "Heading": "Okay!",
+          "Body": "no extra pockets ,no organizer pockets for small valuable things or frequently needed things"
+        }
+      ],
+      "Faq": [
+        {
+          "Question": "Is there any warranty",
+          "Answer": "I don't know. But this is super product ...",
+          "Upvotes": 3
+        },
+        {
+          "Question": "Does it have Rain cover?",
+          "Answer": "yes",
+          "Upvotes": 2
+        },
+        {
+          "Question": "Return policy is available or not",
+          "Answer": "Available",
+          "Upvotes": 3
+        },
+        {
+          "Question": "15.6 inch laptop fits in this bag?",
+          "Answer": "Yes, 15.6 inch laptop can easily fit in this bag. Thanks",
+          "Upvotes": 1
+        },
+        {
+          "Question": "In heavy rain does it work without rain cover",
+          "Answer": "No, during heavy rain you should use raincover.",
+          "Upvotes": 7
+        },
+        {
+          "Question": "Is it available gray color",
+          "Answer": "Search Half Moon bags on Amazon to check any color variation if available.",
+          "Upvotes": 3
+        },
+        {
+          "Question": "Does it have Laptop Compartment",
+          "Answer": "Yes, it has a padded laptop compartment",
+          "Upvotes": 6
+        },
+        {
+          "Question": "Custom logo Possible qty 20Pic Order",
+          "Answer": "No",
+          "Upvotes": 4
+        },
+        {
+          "Question": "Does this product has return policy??",
+          "Answer": "Yes",
+          "Upvotes": 5
+        },
+        {
+          "Question": "Can i carry a small size umbrella in it?",
+          "Answer": "Yes",
+          "Upvotes": 1
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Home Sizzler 153 cm (5 ft) Polyester Window Curtain (Pack Of 2)  (Floral, Brown)",
+      "price": 799,
+      "discount": 61,
+      "description": "The design of the delivered product may slightly vary from what is shown in the displayed image.",
+      "image": [
+        "https://rukminim1.flixcart.com/image/416/416/kpedle80/curtain/t/c/z/panel-garden-dr-brown-214-door-hs2pc000992dr-eyelet-home-sizzler-original-imag3n7yayhahavq.jpeg?q=70",
+        "links",
+        "links"
+      ],
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      },
+      "type": "Buy",
+      "Category": "Home",
+      "stockAvailable": 9,
+      "Reviews": [
+        {
+          "UserName": "Rithwik",
+          "Rating": 5,
+          "Heading": "Very nice product",
+          "Body": "Too good fully satisfied"
+        },
+        {
+          "UserName": "Chetan",
+          "Rating": 5,
+          "Heading": "Too good fully satisfied",
+          "Body": "It was trending as the best seller. But after purchasing it I realised that generic material has been used in the making of this item."
+        },
+        {
+          "UserName": "Ravindra",
+          "Rating": 2,
+          "Heading": " Not good",
+          "Body": "this product is very bad in quality. its shoulder strips are not good after two days use the strip break. there is a cover for cover the bag during raining season."
+        },
+        {
+          "UserName": "Sravan",
+          "Rating": 1,
+          "Heading": " Low quality product.",
+          "Body": "I thought it must be more strong.no doubt it is strong but the fear to carry less things is maintained."
+        },
+        {
+          "UserName": "Naveen",
+          "Rating": 5,
+          "Heading": " Useful multi-purpose",
+          "Body": "Good Product... Light Waight & Nice Looking Bag... Bag Is Too Short..."
+        },
+        {
+          "UserName": "Bhargav",
+          "Rating": 5,
+          "Heading": " Good quality..",
+          "Body": " Can put your laptop and I pads with safety,Very nice style and colour.Not soo big neither too small.Also useful for office."
+        },
+        {
+          "UserName": "Mahesh",
+          "Rating": 3,
+          "Heading": "Not Bad!",
+          "Body": "This bag is good for college and office purposes. It's very attractive and has good looks. The bag comes with a bag cover for covering the bag during rainy season. I don't think big laptop will fit in this bag but it has shelf for laptop."
+        },
+        {
+          "UserName": "Akhanda",
+          "Rating": 5,
+          "Heading": "Good for students",
+          "Body": "The bag is good according to its price. But I find that the chains of the bag are not easily moving."
+        },
+        {
+          "UserName": "Nani",
+          "Rating": 5,
+          "Heading": "5.0 out of 5 stars Best bag at best price",
+          "Body": "Quality is not bad. Bag containing 2 bottle holders which is nice . Space is also ok."
+        },
+        {
+          "UserName": "Naresh",
+          "Rating": 3,
+          "Heading": " Good looking bag but chains are not good",
+          "Body": "Not of good quality - average price is shown originally at high price and offering at a lower rate but it shows of poor in quality"
+        },
+        {
+          "UserName": "Pavan",
+          "Rating": 4,
+          "Heading": "Useful and beneficial",
+          "Body": "Good quality and as per descrption in the item details. Although the raincover is just a piece of polythene. But still it serves the purpose."
+        },
+        {
+          "UserName": "Chaari",
+          "Rating": 3,
+          "Heading": " Not of Good Quality",
+          "Body": "I liked there promises for rain cover in a average price ,but rain cover is too small that it can not protect your belongings to take shower in rain,there is strong possibility that at least your will suffer one time due to pseudo rain protection feeling."
+        },
+        {
+          "UserName": "Ram",
+          "Rating": 3,
+          "Heading": " Overall ok",
+          "Body": "Not in quality"
+        },
+        {
+          "UserName": "Messi",
+          "Rating": 2,
+          "Heading": "Okay!",
+          "Body": "no extra pockets ,no organizer pockets for small valuable things or frequently needed things"
+        }
+      ],
+      "Faq": [
+        {
+          "Question": "Is there any warranty",
+          "Answer": "I don't know. But this is super product ...",
+          "Upvotes": 3
+        },
+        {
+          "Question": "Does it have Rain cover?",
+          "Answer": "yes",
+          "Upvotes": 2
+        },
+        {
+          "Question": "Return policy is available or not",
+          "Answer": "Available",
+          "Upvotes": 3
+        },
+        {
+          "Question": "15.6 inch laptop fits in this bag?",
+          "Answer": "Yes, 15.6 inch laptop can easily fit in this bag. Thanks",
+          "Upvotes": 1
+        },
+        {
+          "Question": "In heavy rain does it work without rain cover",
+          "Answer": "No, during heavy rain you should use raincover.",
+          "Upvotes": 7
+        },
+        {
+          "Question": "Is it available gray color",
+          "Answer": "Search Half Moon bags on Amazon to check any color variation if available.",
+          "Upvotes": 3
+        },
+        {
+          "Question": "Does it have Laptop Compartment",
+          "Answer": "Yes, it has a padded laptop compartment",
+          "Upvotes": 6
+        },
+        {
+          "Question": "Custom logo Possible qty 20Pic Order",
+          "Answer": "No",
+          "Upvotes": 4
+        },
+        {
+          "Question": "Does this product has return policy??",
+          "Answer": "Yes",
+          "Upvotes": 5
+        },
+        {
+          "Question": "Can i carry a small size umbrella in it?",
+          "Answer": "Yes",
+          "Upvotes": 1
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "LG 20 L Grill Microwave Oven  (MH2044DB, Black)",
+      "price": 9490,
+      "discount": 10,
+      "description": "The design of the delivered product may slightly vary from what is shown in the displayed image.",
+      "image": [
+        "https://rukminim1.flixcart.com/image/416/416/ja73ki80/microwave-new/7/u/v/mh2044db-lg-original-imaezzenh83hmzhg.jpeg?q=70",
+        "links",
+        "links"
+      ],
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      },
+      "type": "Buy",
+      "Category": "Appliances",
+      "stockAvailable": 69,
+      "Reviews": [
+        {
+          "UserName": "Rithwik",
+          "Rating": 5,
+          "Heading": "Very nice product",
+          "Body": "Too good fully satisfied"
+        },
+        {
+          "UserName": "Chetan",
+          "Rating": 5,
+          "Heading": "Too good fully satisfied",
+          "Body": "It was trending as the best seller. But after purchasing it I realised that generic material has been used in the making of this item."
+        },
+        {
+          "UserName": "Ravindra",
+          "Rating": 2,
+          "Heading": " Not good",
+          "Body": "this product is very bad in quality. its shoulder strips are not good after two days use the strip break. there is a cover for cover the bag during raining season."
+        },
+        {
+          "UserName": "Sravan",
+          "Rating": 1,
+          "Heading": " Low quality product.",
+          "Body": "I thought it must be more strong.no doubt it is strong but the fear to carry less things is maintained."
+        },
+        {
+          "UserName": "Naveen",
+          "Rating": 5,
+          "Heading": " Useful multi-purpose",
+          "Body": "Good Product... Light Waight & Nice Looking Bag... Bag Is Too Short..."
+        },
+        {
+          "UserName": "Bhargav",
+          "Rating": 5,
+          "Heading": " Good quality..",
+          "Body": " Can put your laptop and I pads with safety,Very nice style and colour.Not soo big neither too small.Also useful for office."
+        },
+        {
+          "UserName": "Mahesh",
+          "Rating": 3,
+          "Heading": "Not Bad!",
+          "Body": "This bag is good for college and office purposes. It's very attractive and has good looks. The bag comes with a bag cover for covering the bag during rainy season. I don't think big laptop will fit in this bag but it has shelf for laptop."
+        },
+        {
+          "UserName": "Akhanda",
+          "Rating": 5,
+          "Heading": "Good for students",
+          "Body": "The bag is good according to its price. But I find that the chains of the bag are not easily moving."
+        },
+        {
+          "UserName": "Nani",
+          "Rating": 5,
+          "Heading": "5.0 out of 5 stars Best bag at best price",
+          "Body": "Quality is not bad. Bag containing 2 bottle holders which is nice . Space is also ok."
+        },
+        {
+          "UserName": "Naresh",
+          "Rating": 3,
+          "Heading": " Good looking bag but chains are not good",
+          "Body": "Not of good quality - average price is shown originally at high price and offering at a lower rate but it shows of poor in quality"
+        },
+        {
+          "UserName": "Pavan",
+          "Rating": 4,
+          "Heading": "Useful and beneficial",
+          "Body": "Good quality and as per descrption in the item details. Although the raincover is just a piece of polythene. But still it serves the purpose."
+        },
+        {
+          "UserName": "Chaari",
+          "Rating": 3,
+          "Heading": " Not of Good Quality",
+          "Body": "I liked there promises for rain cover in a average price ,but rain cover is too small that it can not protect your belongings to take shower in rain,there is strong possibility that at least your will suffer one time due to pseudo rain protection feeling."
+        },
+        {
+          "UserName": "Ram",
+          "Rating": 3,
+          "Heading": " Overall ok",
+          "Body": "Not in quality"
+        },
+        {
+          "UserName": "Messi",
+          "Rating": 2,
+          "Heading": "Okay!",
+          "Body": "no extra pockets ,no organizer pockets for small valuable things or frequently needed things"
+        }
+      ],
+      "Faq": [
+        {
+          "Question": "Is there any warranty",
+          "Answer": "I don't know. But this is super product ...",
+          "Upvotes": 3
+        },
+        {
+          "Question": "Does it have Rain cover?",
+          "Answer": "yes",
+          "Upvotes": 2
+        },
+        {
+          "Question": "Return policy is available or not",
+          "Answer": "Available",
+          "Upvotes": 3
+        },
+        {
+          "Question": "15.6 inch laptop fits in this bag?",
+          "Answer": "Yes, 15.6 inch laptop can easily fit in this bag. Thanks",
+          "Upvotes": 1
+        },
+        {
+          "Question": "In heavy rain does it work without rain cover",
+          "Answer": "No, during heavy rain you should use raincover.",
+          "Upvotes": 7
+        },
+        {
+          "Question": "Is it available gray color",
+          "Answer": "Search Half Moon bags on Amazon to check any color variation if available.",
+          "Upvotes": 3
+        },
+        {
+          "Question": "Does it have Laptop Compartment",
+          "Answer": "Yes, it has a padded laptop compartment",
+          "Upvotes": 6
+        },
+        {
+          "Question": "Custom logo Possible qty 20Pic Order",
+          "Answer": "No",
+          "Upvotes": 4
+        },
+        {
+          "Question": "Does this product has return policy??",
+          "Answer": "Yes",
+          "Upvotes": 5
+        },
+        {
+          "Question": "Can i carry a small size umbrella in it?",
+          "Answer": "Yes",
+          "Upvotes": 1
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "BOSCH 8 kg INVERTER TOUCH CONTROL Fully Automatic Front Load",
+      "price": 43299,
+      "discount": 24,
+      "description": "The design of the delivered product may slightly vary from what is shown in the displayed image.",
+      "image": [
+        "https://rukminim1.flixcart.com/image/416/416/knknc7k0/washing-machine-new/x/u/g/8-waj2426ain-bosch-original-imag28ftaggavpwm.jpeg?q=70",
+        "links",
+        "links"
+      ],
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      },
+      "type": "Buy",
+      "Category": "Appliances",
+      "stockAvailable": 74,
+      "Reviews": [
+        {
+          "UserName": "Rithwik",
+          "Rating": 5,
+          "Heading": "Very nice product",
+          "Body": "Too good fully satisfied"
+        },
+        {
+          "UserName": "Chetan",
+          "Rating": 5,
+          "Heading": "Too good fully satisfied",
+          "Body": "It was trending as the best seller. But after purchasing it I realised that generic material has been used in the making of this item."
+        },
+        {
+          "UserName": "Ravindra",
+          "Rating": 2,
+          "Heading": " Not good",
+          "Body": "this product is very bad in quality. its shoulder strips are not good after two days use the strip break. there is a cover for cover the bag during raining season."
+        },
+        {
+          "UserName": "Sravan",
+          "Rating": 1,
+          "Heading": " Low quality product.",
+          "Body": "I thought it must be more strong.no doubt it is strong but the fear to carry less things is maintained."
+        },
+        {
+          "UserName": "Naveen",
+          "Rating": 5,
+          "Heading": " Useful multi-purpose",
+          "Body": "Good Product... Light Waight & Nice Looking Bag... Bag Is Too Short..."
+        },
+        {
+          "UserName": "Bhargav",
+          "Rating": 5,
+          "Heading": " Good quality..",
+          "Body": " Can put your laptop and I pads with safety,Very nice style and colour.Not soo big neither too small.Also useful for office."
+        },
+        {
+          "UserName": "Mahesh",
+          "Rating": 3,
+          "Heading": "Not Bad!",
+          "Body": "This bag is good for college and office purposes. It's very attractive and has good looks. The bag comes with a bag cover for covering the bag during rainy season. I don't think big laptop will fit in this bag but it has shelf for laptop."
+        },
+        {
+          "UserName": "Akhanda",
+          "Rating": 5,
+          "Heading": "Good for students",
+          "Body": "The bag is good according to its price. But I find that the chains of the bag are not easily moving."
+        },
+        {
+          "UserName": "Nani",
+          "Rating": 5,
+          "Heading": "5.0 out of 5 stars Best bag at best price",
+          "Body": "Quality is not bad. Bag containing 2 bottle holders which is nice . Space is also ok."
+        },
+        {
+          "UserName": "Naresh",
+          "Rating": 3,
+          "Heading": " Good looking bag but chains are not good",
+          "Body": "Not of good quality - average price is shown originally at high price and offering at a lower rate but it shows of poor in quality"
+        },
+        {
+          "UserName": "Pavan",
+          "Rating": 4,
+          "Heading": "Useful and beneficial",
+          "Body": "Good quality and as per descrption in the item details. Although the raincover is just a piece of polythene. But still it serves the purpose."
+        },
+        {
+          "UserName": "Chaari",
+          "Rating": 3,
+          "Heading": " Not of Good Quality",
+          "Body": "I liked there promises for rain cover in a average price ,but rain cover is too small that it can not protect your belongings to take shower in rain,there is strong possibility that at least your will suffer one time due to pseudo rain protection feeling."
+        },
+        {
+          "UserName": "Ram",
+          "Rating": 3,
+          "Heading": " Overall ok",
+          "Body": "Not in quality"
+        },
+        {
+          "UserName": "Messi",
+          "Rating": 2,
+          "Heading": "Okay!",
+          "Body": "no extra pockets ,no organizer pockets for small valuable things or frequently needed things"
+        }
+      ],
+      "Faq": [
+        {
+          "Question": "Is there any warranty",
+          "Answer": "I don't know. But this is super product ...",
+          "Upvotes": 3
+        },
+        {
+          "Question": "Does it have Rain cover?",
+          "Answer": "yes",
+          "Upvotes": 2
+        },
+        {
+          "Question": "Return policy is available or not",
+          "Answer": "Available",
+          "Upvotes": 3
+        },
+        {
+          "Question": "15.6 inch laptop fits in this bag?",
+          "Answer": "Yes, 15.6 inch laptop can easily fit in this bag. Thanks",
+          "Upvotes": 1
+        },
+        {
+          "Question": "In heavy rain does it work without rain cover",
+          "Answer": "No, during heavy rain you should use raincover.",
+          "Upvotes": 7
+        },
+        {
+          "Question": "Is it available gray color",
+          "Answer": "Search Half Moon bags on Amazon to check any color variation if available.",
+          "Upvotes": 3
+        },
+        {
+          "Question": "Does it have Laptop Compartment",
+          "Answer": "Yes, it has a padded laptop compartment",
+          "Upvotes": 6
+        },
+        {
+          "Question": "Custom logo Possible qty 20Pic Order",
+          "Answer": "No",
+          "Upvotes": 4
+        },
+        {
+          "Question": "Does this product has return policy??",
+          "Answer": "Yes",
+          "Upvotes": 5
+        },
+        {
+          "Question": "Can i carry a small size umbrella in it?",
+          "Answer": "Yes",
+          "Upvotes": 1
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "SSTOYS 3D Fast Modern Car  (Multicolor)",
+      "price": 599,
+      "discount": 72,
+      "description": "The design of the delivered product may slightly vary from what is shown in the displayed image.",
+      "image": [
+        "https://rukminim1.flixcart.com/image/416/416/kmkxbww0/remote-control-toy/n/u/4/3d-fast-modern-car-sstoys-original-imagfgdgamejgbwp.jpeg?q=70",
+        "links",
+        "links"
+      ],
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      },
+      "type": "Buy",
+      "Category": "Kids",
+      "stockAvailable": 31,
+      "Reviews": [
+        {
+          "UserName": "Rithwik",
+          "Rating": 5,
+          "Heading": "Very nice product",
+          "Body": "Too good fully satisfied"
+        },
+        {
+          "UserName": "Chetan",
+          "Rating": 5,
+          "Heading": "Too good fully satisfied",
+          "Body": "It was trending as the best seller. But after purchasing it I realised that generic material has been used in the making of this item."
+        },
+        {
+          "UserName": "Ravindra",
+          "Rating": 2,
+          "Heading": " Not good",
+          "Body": "this product is very bad in quality. its shoulder strips are not good after two days use the strip break. there is a cover for cover the bag during raining season."
+        },
+        {
+          "UserName": "Sravan",
+          "Rating": 1,
+          "Heading": " Low quality product.",
+          "Body": "I thought it must be more strong.no doubt it is strong but the fear to carry less things is maintained."
+        },
+        {
+          "UserName": "Naveen",
+          "Rating": 5,
+          "Heading": " Useful multi-purpose",
+          "Body": "Good Product... Light Waight & Nice Looking Bag... Bag Is Too Short..."
+        },
+        {
+          "UserName": "Bhargav",
+          "Rating": 5,
+          "Heading": " Good quality..",
+          "Body": " Can put your laptop and I pads with safety,Very nice style and colour.Not soo big neither too small.Also useful for office."
+        },
+        {
+          "UserName": "Mahesh",
+          "Rating": 3,
+          "Heading": "Not Bad!",
+          "Body": "This bag is good for college and office purposes. It's very attractive and has good looks. The bag comes with a bag cover for covering the bag during rainy season. I don't think big laptop will fit in this bag but it has shelf for laptop."
+        },
+        {
+          "UserName": "Akhanda",
+          "Rating": 5,
+          "Heading": "Good for students",
+          "Body": "The bag is good according to its price. But I find that the chains of the bag are not easily moving."
+        },
+        {
+          "UserName": "Nani",
+          "Rating": 5,
+          "Heading": "5.0 out of 5 stars Best bag at best price",
+          "Body": "Quality is not bad. Bag containing 2 bottle holders which is nice . Space is also ok."
+        },
+        {
+          "UserName": "Naresh",
+          "Rating": 3,
+          "Heading": " Good looking bag but chains are not good",
+          "Body": "Not of good quality - average price is shown originally at high price and offering at a lower rate but it shows of poor in quality"
+        },
+        {
+          "UserName": "Pavan",
+          "Rating": 4,
+          "Heading": "Useful and beneficial",
+          "Body": "Good quality and as per descrption in the item details. Although the raincover is just a piece of polythene. But still it serves the purpose."
+        },
+        {
+          "UserName": "Chaari",
+          "Rating": 3,
+          "Heading": " Not of Good Quality",
+          "Body": "I liked there promises for rain cover in a average price ,but rain cover is too small that it can not protect your belongings to take shower in rain,there is strong possibility that at least your will suffer one time due to pseudo rain protection feeling."
+        },
+        {
+          "UserName": "Ram",
+          "Rating": 3,
+          "Heading": " Overall ok",
+          "Body": "Not in quality"
+        },
+        {
+          "UserName": "Messi",
+          "Rating": 2,
+          "Heading": "Okay!",
+          "Body": "no extra pockets ,no organizer pockets for small valuable things or frequently needed things"
+        }
+      ],
+      "Faq": [
+        {
+          "Question": "Is there any warranty",
+          "Answer": "I don't know. But this is super product ...",
+          "Upvotes": 3
+        },
+        {
+          "Question": "Does it have Rain cover?",
+          "Answer": "yes",
+          "Upvotes": 2
+        },
+        {
+          "Question": "Return policy is available or not",
+          "Answer": "Available",
+          "Upvotes": 3
+        },
+        {
+          "Question": "15.6 inch laptop fits in this bag?",
+          "Answer": "Yes, 15.6 inch laptop can easily fit in this bag. Thanks",
+          "Upvotes": 1
+        },
+        {
+          "Question": "In heavy rain does it work without rain cover",
+          "Answer": "No, during heavy rain you should use raincover.",
+          "Upvotes": 7
+        },
+        {
+          "Question": "Is it available gray color",
+          "Answer": "Search Half Moon bags on Amazon to check any color variation if available.",
+          "Upvotes": 3
+        },
+        {
+          "Question": "Does it have Laptop Compartment",
+          "Answer": "Yes, it has a padded laptop compartment",
+          "Upvotes": 6
+        },
+        {
+          "Question": "Custom logo Possible qty 20Pic Order",
+          "Answer": "No",
+          "Upvotes": 4
+        },
+        {
+          "Question": "Does this product has return policy??",
+          "Answer": "Yes",
+          "Upvotes": 5
+        },
+        {
+          "Question": "Can i carry a small size umbrella in it?",
+          "Answer": "Yes",
+          "Upvotes": 1
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Women Skater Multicolor Dress",
+      "price": 1199,
+      "discount": 62,
+      "description": "The design of the delivered product may slightly vary from what is shown in the displayed image.",
+      "image": [
+        "https://rukminim1.flixcart.com/image/779/935/klqx30w0/dress/d/z/j/xxl-bp20es49-bhawanaprint-original-imagys87ctfn58by.jpeg?q=50",
+        "links",
+        "links"
+      ],
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      },
+      "type": "Buy",
+      "Category": "Womens",
+      "stockAvailable": 333,
+      "Reviews": [
+        {
+          "UserName": "Rithwik",
+          "Rating": 5,
+          "Heading": "Very nice product",
+          "Body": "Too good fully satisfied"
+        },
+        {
+          "UserName": "Chetan",
+          "Rating": 5,
+          "Heading": "Too good fully satisfied",
+          "Body": "It was trending as the best seller. But after purchasing it I realised that generic material has been used in the making of this item."
+        },
+        {
+          "UserName": "Ravindra",
+          "Rating": 2,
+          "Heading": " Not good",
+          "Body": "this product is very bad in quality. its shoulder strips are not good after two days use the strip break. there is a cover for cover the bag during raining season."
+        },
+        {
+          "UserName": "Sravan",
+          "Rating": 1,
+          "Heading": " Low quality product.",
+          "Body": "I thought it must be more strong.no doubt it is strong but the fear to carry less things is maintained."
+        },
+        {
+          "UserName": "Naveen",
+          "Rating": 5,
+          "Heading": " Useful multi-purpose",
+          "Body": "Good Product... Light Waight & Nice Looking Bag... Bag Is Too Short..."
+        },
+        {
+          "UserName": "Bhargav",
+          "Rating": 5,
+          "Heading": " Good quality..",
+          "Body": " Can put your laptop and I pads with safety,Very nice style and colour.Not soo big neither too small.Also useful for office."
+        },
+        {
+          "UserName": "Mahesh",
+          "Rating": 3,
+          "Heading": "Not Bad!",
+          "Body": "This bag is good for college and office purposes. It's very attractive and has good looks. The bag comes with a bag cover for covering the bag during rainy season. I don't think big laptop will fit in this bag but it has shelf for laptop."
+        },
+        {
+          "UserName": "Akhanda",
+          "Rating": 5,
+          "Heading": "Good for students",
+          "Body": "The bag is good according to its price. But I find that the chains of the bag are not easily moving."
+        },
+        {
+          "UserName": "Nani",
+          "Rating": 5,
+          "Heading": "5.0 out of 5 stars Best bag at best price",
+          "Body": "Quality is not bad. Bag containing 2 bottle holders which is nice . Space is also ok."
+        },
+        {
+          "UserName": "Naresh",
+          "Rating": 3,
+          "Heading": " Good looking bag but chains are not good",
+          "Body": "Not of good quality - average price is shown originally at high price and offering at a lower rate but it shows of poor in quality"
+        },
+        {
+          "UserName": "Pavan",
+          "Rating": 4,
+          "Heading": "Useful and beneficial",
+          "Body": "Good quality and as per descrption in the item details. Although the raincover is just a piece of polythene. But still it serves the purpose."
+        },
+        {
+          "UserName": "Chaari",
+          "Rating": 3,
+          "Heading": " Not of Good Quality",
+          "Body": "I liked there promises for rain cover in a average price ,but rain cover is too small that it can not protect your belongings to take shower in rain,there is strong possibility that at least your will suffer one time due to pseudo rain protection feeling."
+        },
+        {
+          "UserName": "Ram",
+          "Rating": 3,
+          "Heading": " Overall ok",
+          "Body": "Not in quality"
+        },
+        {
+          "UserName": "Messi",
+          "Rating": 2,
+          "Heading": "Okay!",
+          "Body": "no extra pockets ,no organizer pockets for small valuable things or frequently needed things"
+        }
+      ],
+      "Faq": [
+        {
+          "Question": "Is there any warranty",
+          "Answer": "I don't know. But this is super product ...",
+          "Upvotes": 3
+        },
+        {
+          "Question": "Does it have Rain cover?",
+          "Answer": "yes",
+          "Upvotes": 2
+        },
+        {
+          "Question": "Return policy is available or not",
+          "Answer": "Available",
+          "Upvotes": 3
+        },
+        {
+          "Question": "15.6 inch laptop fits in this bag?",
+          "Answer": "Yes, 15.6 inch laptop can easily fit in this bag. Thanks",
+          "Upvotes": 1
+        },
+        {
+          "Question": "In heavy rain does it work without rain cover",
+          "Answer": "No, during heavy rain you should use raincover.",
+          "Upvotes": 7
+        },
+        {
+          "Question": "Is it available gray color",
+          "Answer": "Search Half Moon bags on Amazon to check any color variation if available.",
+          "Upvotes": 3
+        },
+        {
+          "Question": "Does it have Laptop Compartment",
+          "Answer": "Yes, it has a padded laptop compartment",
+          "Upvotes": 6
+        },
+        {
+          "Question": "Custom logo Possible qty 20Pic Order",
+          "Answer": "No",
+          "Upvotes": 4
+        },
+        {
+          "Question": "Does this product has return policy??",
+          "Answer": "Yes",
+          "Upvotes": 5
+        },
+        {
+          "Question": "Can i carry a small size umbrella in it?",
+          "Answer": "Yes",
+          "Upvotes": 1
+        }
+      ]
+    },
+    {
+      "rating": {
+        "rate": 0,
+        "count": 0
+      },
+      "id": 209,
+      "title": "T shirt Black XL only",
+      "price": 2090,
+      "discount": 20,
+      "stockAvailable": 5,
+      "description": "asdfadsfasdfsda",
+      "image": [
+        "https://rukminim1.flixcart.com/image/779/935/kj4m0sw0-0/t-shirt/5/c/4/s-tsrt-303-reya-original-imafyrjprxpfbhqr.jpeg?q=50",
+        "https://rukminim1.flixcart.com/image/779/935/kjswia80/t-shirt/a/j/4/l-tsrt-303-reya-original-imafzaeaggzkhcsy.jpeg?q=50"
+      ],
+      "type": "Buy",
+      "Category": "Mens",
+      "Reviews": [
+        {
+          "UserName": "Naveen",
+          "Rating": 5,
+          "Heading": "This is good",
+          "Body": "The product is too good worth buying it"
+        }
+      ],
+      "Faq": [
+        {
+          "Question": "Is there any warranty",
+          "Answer": "I don't know. But this is super product ...",
+          "Upvotes": 0
+        }
+      ]
+    },
+    {
+      "rating": {
+        "rate": 0,
+        "count": 0
+      },
+      "id": 300,
+      "title": "pampers",
+      "price": 400,
+      "discount": 12,
+      "stockAvailable": 15,
+      "description": "used for kids",
+      "image": [
+        "https://rukminim1.flixcart.com/image/416/416/kg9qbgw0/diaper/z/p/f/pant-style-diapers-lotion-with-aloe-vera-l-64-pampers-original-imafwjmhabrjj9yh.jpeg?q=70",
+        null
+      ],
+      "type": "Buy",
+      "Category": "Kids",
+      "Reviews": [
+        {
+          "UserName": "Naveen Mowa 2.0",
+          "Heading": "leaking problem",
+          "Body": "not suitable for adults",
+          "Rating": 3
+        },
+        {
+          "UserName": "Naveen",
+          "Rating": 5,
+          "Heading": "This is good",
+          "Body": "The product is too good worth buying it"
+        }
+      ],
+      "Faq": [
+        {
+          "Question": "Is there any warranty",
+          "Answer": "I don't know. But this is super product ...",
+          "Upvotes": 0
+        }
+      ]
+    },
+    {
+      "rating": {
+        "rate": 0,
+        "count": 0
+      },
+      "id": 3421,
+      "title": "Trendy Sports Running Running Shoes For Men  (Orange, Grey)",
+      "price": 700,
+      "discount": 12,
+      "stockAvailable": 1,
+      "description": "ivi rubber shoes bro konte konu, ledante ledhu",
+      "image": [
+        "https://rukminim1.flixcart.com/image/779/935/kmwcuq80/shoe/w/u/s/7-444-gry-org-bruton-orange-original-imagfp7fzz5ftzfc.jpeg?q=50"
+      ],
+      "type": "Buy",
+      "Category": "Mens",
+      "Reviews": [
+        {
+          "UserName": "Naveen12",
+          "Heading": "sexy shoes",
+          "Body": "felt like walking on heven",
+          "Rating": 5
+        },
+        {
+          "UserName": "Naveen",
+          "Rating": 5,
+          "Heading": "This is good",
+          "Body": "The product is too good worth buying it"
+        }
+      ],
+      "Faq": [
+        {
+          "Question": "Is there any warranty",
+          "Answer": "I don't know. But this is super product ...",
+          "Upvotes": 0
+        },
+        {
+          "Upvotes": 0,
+          "Question": "how is the sole?",
+          "Answer": "strong"
+        }
+      ]
+    }
+  ]
+}

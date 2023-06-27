@@ -1,0 +1,27 @@
+.mini-product-container {
+  height: 220px;
+  width: 200px;
+  background-color: #f8f8f8;
+  margin: 3px;
+  border-radius: 4px;
+}
+.mini-product-image-container {
+  height: 70%;
+  width: 100%;
+  flex-wrap: nowrap;
+  display: flex;
+  justify-content: center;
+}
+.mini-product-image-container img {
+  position: relative;
+  height: 90%;
+  width: inherit;
+}
+.mini-product-data-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.mini-product-data-container p {
+  font-size: large;
+}

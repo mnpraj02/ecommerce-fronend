@@ -1,0 +1,14 @@
+.voting-area{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    margin:20px;
+}
+
+.voting-area button{
+    font-size: 30px;
+    background-color: white;
+    border: none;
+    padding: 0;
+}
+

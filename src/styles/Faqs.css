@@ -1,0 +1,74 @@
+.display-faqs {
+  text-align: center;
+}
+
+.faq-search {
+  height: 20px;
+  padding: 8px;
+  margin-top: 8px;
+  font-size: 17px;
+  border: 2px solid black;
+  border-right: none;
+  width: 50vw;
+}
+
+.faq-search:focus {
+  outline: none;
+}
+
+.faq-search-button {
+  height: 40px;
+  width: 40px;
+  padding: 6px 10px;
+  margin-top: 8px;
+  margin-right: 16px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+  border: 2px solid black;
+  border-left: none;
+}
+
+.faqs {
+  text-align: left;
+  margin-left: 10%;
+  min-height: 400px;
+}
+
+.faqs-heading {
+  margin: 20px;
+}
+.search-area {
+  margin: 10px;
+}
+.search-area{
+    margin: 10px;
+}
+
+.paginationBtns{
+    width: 80%;
+    height: 40px;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.paginationBtns a{
+    padding: 10px;
+    margin: 8px;
+    border-radius:5px;
+    border: 1px solid rgb(32,49,65);
+    color: rgb(32,49,65);
+    cursor: pointer;
+}
+
+.paginationBtns a:hover{
+    color: white;
+    background-color: rgb(32,49,65);
+}
+
+.paginationActive a{
+    color: white;
+    background-color: rgb(32,49,65);
+}

@@ -1,0 +1,54 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+.signrup-container {
+  width: 100%;
+}
+.form-container {
+  height: auto;
+  width: 50%;
+  margin: auto;
+  margin-top: 5%;
+  padding: 20px;
+  padding-left: 40px;
+  font-family: "Arial Rounded MT";
+  padding-right: 10px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
+    rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+.Label {
+  width: 330px;
+  display: inline-block;
+  margin: 15px;
+  text-align: left;
+}
+.input-field {
+  height: 30px;
+  margin: 15px;
+  border: none;
+  border-bottom: 2px solid black;
+}
+.input-field:focus {
+  background-color: rgb(232, 240, 254);
+  outline: none;
+}
+.width-43 {
+  width: 43%;
+}
+
+.width-90 {
+  width: 90%;
+}
+#showpassword {
+  margin: 2%;
+  margin-left: 2%;
+}
+.submit-register {
+  margin: auto;
+  height: 40px;
+  margin-top: 20px;
+  margin-left: 10px;
+  width: 91%;
+}

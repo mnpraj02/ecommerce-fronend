@@ -1,0 +1,12 @@
+.items-heading{
+    margin: 20px;
+}
+.items-display{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.similar-item{
+    margin: 20px;
+}

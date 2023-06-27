@@ -1,0 +1,652 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "user": "Ravindra Tholuchuru",
+      "heading": "Amazing Product",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum!",
+      "stars": 3
+    },
+    {
+      "id": 2,
+      "user": "Naveen Kumar",
+      "heading": "Amazing Product",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum!",
+      "stars": 4
+    },
+    {
+      "id": 3,
+      "user": "Sravan Kumar",
+      "heading": "Amazing Product",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum!",
+      "stars": 5
+    },
+    {
+      "id": 4,
+      "user": "Bhargav",
+      "heading": "Good Product",
+      "body": "I've been using this product since two weeks, and It's working fine, if you looking for a backpack which can store a minimum 5 to 10 backpacks, Then this is the one, just go for it!",
+      "stars": 4
+    },
+    {
+      "id": 5,
+      "user": "Chetan Guduru",
+      "heading": "Excellent Product",
+      "body": "The size,quality,everything is perfect with this, it is so branded I loved it. Buy it you will never regret fr this product!",
+      "stars": 5
+    },
+    {
+      "id": 6,
+      "user": "Rithwik Mannem",
+      "heading": "Worth it",
+      "body": "A really well made for this one.It's not at all flashy and fits a 15 inch laptop perfectly. I would have preferred the thread lining to be good. Overall happy with the purchase!",
+      "stars": 5
+    },
+    {
+      "id": 7,
+      "user": "Akhanda",
+      "heading": "It's Ok",
+      "body": "Actually I ordered Red one with Lord Shiva's image on it, but it came with blue one, And there is no lord's face on it. Both are not same. It's ok we imagine a lot but there is no chance to be what we imagined!",
+      "stars": 4
+    },
+    {
+      "id": 8,
+      "user": "Thomas Shelby",
+      "heading": "Nice",
+      "body": "I liked it, It is what it is it, A good one, Product size is perfect for me. And it's definitely Great Looking !",
+      "stars": 5
+    },
+    {
+      "id": 9,
+      "user": "Vito Corlene",
+      "heading": "Good Product",
+      "body": "I buyed it on offer, Which I can't Refuse to buy, But to be honest I kinda liked it!",
+      "stars": 4
+    },
+    {
+      "id": 10,
+      "user": "Joey Tribbianni",
+      "heading": "Oh Boy!",
+      "body": "This is so nice, I love it, and look at the zips it is so secured, its good, because I dont share food!",
+      "stars": 5
+    },
+    {
+      "id": 11,
+      "user": "Gunther",
+      "heading": "Amazing Product",
+      "body": "What is in the photos is a bit different when I got this bag . But the good thing is I liked the way it looks and a good build quality. The space is sufficient. Zip quality is OK. And the overall appearance is is nice.. I liked it!",
+      "stars": 5
+    },
+    {
+      "id": 12,
+      "user": "Raj",
+      "heading": "Nice Product",
+      "body": "good backpack. I am fully satisfied with this bag. good to use and it is lightweight. overall a good bag. I recommend all to buy this!",
+      "stars": 4
+    },
+    {
+      "id": 13,
+      "user": "Ram",
+      "heading": "Decent Product",
+      "body": "very good space and features with Laptop sleeve and spare pockets!",
+      "stars": 4
+    },
+    {
+      "id": 14,
+      "user": "Rahul",
+      "heading": "Excellent Product",
+      "body": "After using 3 months i am writing the review. Its exactly Worth for the money.good storage space, for my daily use. Good choice!",
+      "stars": 5
+    },
+    {
+      "id": 15,
+      "user": "Robert",
+      "heading": "Good Product",
+      "body": "Bag quantity is very good ... Space is good ... The only negative thing is bags rain cover.. cover is not properly fit and not able to protect from rain water ... Overall 4star bag .. should go for it",
+      "stars": 4
+    },
+    {
+      "user": "Hacker Ravindra",
+      "heading": "Heading",
+      "body": "Body",
+      "stars": 2,
+      "id": 16
+    },
+    {
+      "user": "Debugger Chetan",
+      "heading": "Heading",
+      "body": "Body",
+      "stars": 2,
+      "id": 16
+    },
+    {
+      "user": "Topper Naveen",
+      "heading": "Very nice product",
+      "body": "This product has been vey useful",
+      "stars": 4,
+      "id": 18
+    },
+    {
+      "user": "Debugger Chetan",
+      "heading": "Hello World!!!",
+      "body": "This is my first program output in my life.",
+      "stars": 3,
+      "id": 19
+    },
+    {
+      "user": "Hacker Ravindra",
+      "heading": "not a great product",
+      "body": "the build could have been better",
+      "stars": 2,
+      "id": 20
+    },
+    {
+      "user": "Topper Naveen",
+      "heading": "Very nice product",
+      "body": "oh boooy",
+      "stars": 4,
+      "id": 21
+    },
+    {
+      "user": "Debugger Chetan",
+      "heading": "very nice",
+      "body": "wow what a product",
+      "stars": 3,
+      "id": 22
+    },
+    {
+      "user": "Borabanda Bhargav",
+      "heading": "Could be better",
+      "body": "Can be much much better",
+      "stars": 3,
+      "id": 23
+    },
+    {
+      "user": "Borabanda Bhargav",
+      "heading": "Could be better",
+      "body": "Can be much much better",
+      "stars": 3,
+      "id": 23
+    },
+    {
+      "user": "Hacker Ravindra",
+      "heading": "Superb ",
+      "body": "what a product!",
+      "stars": 4,
+      "id": 24
+    },
+    {
+      "user": "Radeshyam Rithwik",
+      "heading": "blah",
+      "body": "blah blah",
+      "stars": 4,
+      "id": 25
+    },
+    {
+      "user": "Radeshyam Rithwik",
+      "heading": "blah",
+      "body": "blah blah",
+      "stars": 4,
+      "id": 25
+    },
+    {
+      "user": "Super sampangi",
+      "heading": "blah",
+      "body": "blah blah",
+      "stars": 4,
+      "id": 25
+    },
+    {
+      "user": "Topper Naveen",
+      "heading": "blah",
+      "body": "fsda",
+      "stars": 4,
+      "id": 26
+    },
+    {
+      "user": " ",
+      "heading": "narukutha bidda",
+      "body": "em ro balsindha fake product amminav?",
+      "stars": 4,
+      "id": 27
+    },
+    {
+      "user": "Naveen mowa",
+      "heading": "narukutha bidda",
+      "body": "bad",
+      "stars": 1,
+      "id": 28
+    },
+    {
+      "user": "Naveen mowa",
+      "heading": "chetan",
+      "body": "bruh",
+      "stars": 4,
+      "id": 29
+    }
+  ],
+  "faqs": [
+    {
+      "id": 1,
+      "question": "How is the stiching?",
+      "answers": ["It is just AMAZING..ZING ZING", "The quality is brilliant"],
+      "upvotes": 2
+    },
+    {
+      "id": 2,
+      "question": "Is it washable?",
+      "answers": ["Yes, It is."],
+      "upvotes": 4
+    },
+    {
+      "id": 3,
+      "question": "Is it a laptop bag or just a casual bag?",
+      "answers": ["Both.", "I think it's Both casual and laptop"],
+      "upvotes": 1
+    },
+    {
+      "id": 4,
+      "question": "is laptop compartment is padded or not?",
+      "answers": [
+        "yes laptop compartment is padded and valuable bag journey and other purposes Anonymous"
+      ],
+      "upvotes": 3
+    },
+    {
+      "id": 5,
+      "question": "Is it fully water proof?",
+      "answers": ["no", "No, but there is extra provided rain cover."],
+      "upvotes": 5
+    },
+    {
+      "id": 6,
+      "question": "How much weight of bag?",
+      "answers": ["Light weight", " nice bag and light weighted."],
+      "upvotes": 3
+    },
+    {
+      "id": 7,
+      "question": "Is there any pocket for water bottle?",
+      "answers": ["2 Sides", "ya two side pockets are for water bottle."],
+      "upvotes": 2
+    },
+    {
+      "id": 8,
+      "question": "is it suitable for office work?",
+      "answers": ["Yes, Absolutely.", "Perfect for office and college too."],
+      "upvotes": 1
+    },
+    {
+      "id": 9,
+      "question": "Can a 16 inch laptop fit in this bag?",
+      "answers": [
+        "Not really ...it's good for a school boy.",
+        "I dont know exactly, but I think it can't fit."
+      ],
+      "upvotes": 5
+    },
+    {
+      "id": 10,
+      "question": "which type of cloth used?",
+      "answers": ["Polyster One."],
+      "upvotes": 4
+    }
+  ],
+  "deliveryAdress": [
+    {
+      "id": 1,
+      "Name": "Ravindra",
+      "avatar": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "phoneNo": "123456",
+      "address": "Ananthauram",
+      "locationName": "ABC Street"
+    },
+    {
+      "id": 2,
+      "Name": "Chetan",
+      "avatar": "https://rukminim1.flixcart.com/image/416/416/ktketu80/mobile/3/e/o/iphone-13-pro-max-mll63hn-a-apple-original-imag6vpgwfgxdsj6.jpeg?q=70",
+      "phoneNo": "34681999929",
+      "address": "Hyderabad",
+      "locationName": "Jublee Hills"
+    },
+    {
+      "id": 3,
+      "Name": "Bhargav",
+      "avatar": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/1353004/2018/9/18/a8acac3a-077a-400f-a1c7-519215a5265e1537251707732-Roadster-Men-Blue-Denim-Washed-Casual-Shirt-5281537251705552-1.jpg",
+      "phoneNo": "34681568929",
+      "address": "Vizag",
+      "locationName": "oppsite Jagadhamba Theatre"
+    },
+    {
+      "id": 4,
+      "Name": "Sravan",
+      "avatar": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/15248534/2021/10/20/d658aaa9-dd2e-424c-98a6-8df71abaf0be1634729694763-Nautica-Men-Jeans-4551634729693996-5.jpg",
+      "phoneNo": "972552992025",
+      "address": "Guntur",
+      "locationName": "Children's Park"
+    },
+    {
+      "id": 5,
+      "Name": "Rithwik",
+      "avatar": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/12247308/2021/6/4/f210363f-8c55-42bc-a6f0-238077c18bc41622789741703-UNDER-ARMOUR-Men-Sports-Shoes-8471622789741281-5.jpg",
+      "phoneNo": "972552992024",
+      "address": "Nellore",
+      "locationName": "Ramji Nagar"
+    },
+    {
+      "id": 6,
+      "Name": "Chandler Bing",
+      "avatar": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/12/27/3c5bc598-2093-48df-8e7c-6329adf0c2661577401172457-1.jpg",
+      "phoneNo": "48727801893",
+      "address": "Ls Angeles",
+      "locationName": "Centrel Perk"
+    },
+    {
+      "id": 7,
+      "Name": "Joey Tribbianni",
+      "avatar": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/9803279/2019/10/11/08d246d9-80d1-4c61-8826-2074624aa0521570782280949-Apple-White-2nd-Gen-AirPods-with-Charging-Case-MV7N2HNA-1181-4.jpg",
+      "phoneNo": "79262154972",
+      "address": "California",
+      "locationName": "Dollars Street"
+    },
+    {
+      "id": 8,
+      "Name": "Ross Geller",
+      "avatar": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/6518755/2021/2/10/7249229f-5eb1-43dd-9c31-547d43f799c41612945435520-Philips-Men-Corded--Cordless-Rechargeable-Beard-Trimmer-BT32-1.jpg",
+      "phoneNo": "79262149162",
+      "address": "Boston",
+      "locationName": "Fci Colony"
+    },
+    {
+      "id": 9,
+      "Name": "Thomas Shelby",
+      "avatar": "https://rukminim1.flixcart.com/image/312/312/kuvkcy80/computer/x/s/4/na-gaming-laptop-acer-original-imag7whp2f8fgpaz.jpeg?q=70",
+      "phoneNo": "16465106465",
+      "address": "Birmingham",
+      "locationName": "Shelby's Bar"
+    },
+    {
+      "id": 10,
+      "Name": "Walter White",
+      "avatar": "https://thumbs.dreamstime.com/z/fashion-model-woman-golden-bright-sparkles-girl-golden-skin-hair-portrait-closeup-fashion-model-woman-golden-bright-113010779.jpg",
+      "phoneNo": "447944649472",
+      "address": "Albequerky",
+      "locationName": "Los Pollos"
+    },
+    {
+      "Name": "Guduru Chetan",
+      "email": "a@b",
+      "address": "C 609 Kendriya Vihar Phase 3",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "phoneNo": "+446300014049",
+      "zip": "500091",
+      "userId": "3",
+      "id": 11
+    }
+  ],
+  "debitCards": [
+    {
+      "id": 1,
+      "avatar": "https://bfsi.eletsonline.com/wp-content/uploads/2020/09/Bajaj-Finserv-inks-Kwik.ID-as-their-Exclusive-Video-KYC-Partner.jpg",
+      "type": "Bajaj Finance",
+      "cardNo": "12345***9",
+      "name": "Ravindra",
+      "expiry": "10/2022"
+    },
+    {
+      "id": 2,
+      "avatar": "https://banksifsccode.com/blog/media/2020-03/how-to-login-to-union-bank-s-net-banking-account-step-4.jpg",
+      "type": "Union Bank",
+      "cardNo": "62545***1",
+      "name": "Chetan",
+      "expiry": "9/2022"
+    },
+    {
+      "id": 3,
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb-tVpgHO9nYzyW8JaPyBvdbfIJGElM-9f-A&usqp=CAU",
+      "type": "SBI",
+      "cardNo": "32588***6",
+      "name": "Bhargav",
+      "expiry": "11/2023"
+    },
+    {
+      "id": 4,
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW2ZlDd6-brYy8-FhdljcWE4dspUj772I21Q&usqp=CAU",
+      "type": "HDFC",
+      "cardNo": "42972***5",
+      "name": "Sravan",
+      "expiry": "10/2021"
+    },
+    {
+      "id": 5,
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkVQfgqXeWs6u0_HLyEdYC4Lh_2_n2y6dt7Q&usqp=CAU&reload=on",
+      "type": "AXIS BANK",
+      "cardNo": "31468***9",
+      "name": "Rithwik",
+      "expiry": "12/2023"
+    },
+    {
+      "id": 6,
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx0AwMt5cZmTTZiqjzn_TN1mc5rsdVi6t6wg&usqp=CAU",
+      "type": "ICICI",
+      "cardNo": "45862***0",
+      "name": "Alex",
+      "expiry": "12/2021"
+    },
+    {
+      "id": 7,
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0tpvYMx8tLtvA4TFJR3eqfCDrfFrm8CCqMg&usqp=CAU",
+      "type": "KOTAK MAHINDRA",
+      "cardNo": "01234***2",
+      "name": "Joey",
+      "expiry": "1/2023"
+    },
+    {
+      "id": 8,
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM0qI4WO2zaMc-DNmZoP3q8AYM9mItszx_Rg&usqp=CAU",
+      "type": "KARUR VYSYA",
+      "cardNo": "36974***5",
+      "name": "Chandler",
+      "expiry": "8/2022"
+    },
+    {
+      "id": 9,
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIcAW3e5uT8W-1-y-GhQiBcBdrWlIKINUdXg&usqp=CAU",
+      "type": "ANDHRA BANK",
+      "cardNo": "23148***5",
+      "name": "Ross",
+      "expiry": "4/2022"
+    },
+    {
+      "avatar": "https://banksifsccode.com/blog/media/2020-03/how-to-login-to-union-bank-s-net-banking-account-step-4.jpg",
+      "name": "fdds",
+      "type": "dfsd",
+      "expiry": "2022-07",
+      "cardNo": "2dsagadsas",
+      "id": 10
+    }
+  ],
+  "upi": [
+    {
+      "id": 1,
+      "avatar": "https://play-lh.googleusercontent.com/k7yz57K2OxhNrPNKF2U18Zcv9rodOu7CfWh47U15FFUN8-_B0hQfXsM-BaLG0gOtvw=s180-rw",
+      "type": "PayTm",
+      "cardNo": "georgey75@paytm",
+      "name": "George",
+      "phoneNo": 123456789
+    },
+    {
+      "id": 2,
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNhDTdW326JcXKYweltkqa8teThw8vAzpInA&usqp=CAU",
+      "type": "Phonepay",
+      "cardNo": "ravindra23@gmail.com",
+      "name": "Ravindra",
+      "phoneNo": 6486728852
+    },
+    {
+      "id": 3,
+      "avatar": "https://play-lh.googleusercontent.com/k7yz57K2OxhNrPNKF2U18Zcv9rodOu7CfWh47U15FFUN8-_B0hQfXsM-BaLG0gOtvw=s180-rw",
+      "type": "PayTm",
+      "cardNo": "Chetan25@gmail.com",
+      "name": "Chetan",
+      "phoneNo": 9999900158
+    },
+    {
+      "id": 4,
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNhDTdW326JcXKYweltkqa8teThw8vAzpInA&usqp=CAU",
+      "type": "Phonepay",
+      "cardNo": "bhargav258@gmail.com",
+      "name": "Bhargav",
+      "phoneNo": 9912052483
+    },
+    {
+      "id": 5,
+      "avatar": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePay_Lockup.max-1200x1200.png",
+      "type": "GooglePay",
+      "cardNo": "sravan54@gmail.com",
+      "name": "Sravan",
+      "phoneNo": 3312588961
+    },
+    {
+      "id": 6,
+      "avatar": "https://play-lh.googleusercontent.com/k7yz57K2OxhNrPNKF2U18Zcv9rodOu7CfWh47U15FFUN8-_B0hQfXsM-BaLG0gOtvw=s180-rw",
+      "type": "PayTm",
+      "cardNo": "rithwik238@gmail.com",
+      "name": "Rithwik",
+      "phoneNo": 7674038678
+    },
+    {
+      "id": 7,
+      "avatar": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePay_Lockup.max-1200x1200.png",
+      "type": "GooglePay",
+      "cardNo": "mahesh028@gmail.com",
+      "name": "Mahesh",
+      "phoneNo": 6456385852
+    },
+    {
+      "id": 8,
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNhDTdW326JcXKYweltkqa8teThw8vAzpInA&usqp=CAU",
+      "type": "Phonepay",
+      "cardNo": "joey30@gmsil.com",
+      "name": "joey",
+      "phoneNo": 5582436910
+    },
+    {
+      "id": 9,
+      "avatar": "https://play-lh.googleusercontent.com/k7yz57K2OxhNrPNKF2U18Zcv9rodOu7CfWh47U15FFUN8-_B0hQfXsM-BaLG0gOtvw=s180-rw",
+      "type": "PayTm",
+      "cardNo": "Chandler62@gmail.com",
+      "name": "Chandler",
+      "phoneNo": 1239876540
+    },
+    {
+      "id": 10,
+      "avatar": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePay_Lockup.max-1200x1200.png",
+      "type": "GooglPay",
+      "cardNo": "Ross87@gmail.com",
+      "name": "Ross",
+      "phoneNo": 7896441238
+    },
+    {
+      "avatar": "https://play-lh.googleusercontent.com/k7yz57K2OxhNrPNKF2U18Zcv9rodOu7CfWh47U15FFUN8-_B0hQfXsM-BaLG0gOtvw=s180-rw",
+      "name": "dsfds",
+      "type": "dsfds",
+      "phoneNo": "5645",
+      "cardNo": "dsfdsfds@h.h",
+      "id": 11
+    }
+  ],
+  "myOrders": [
+    {
+      "id": 2,
+      "avatar": "https://rukminim1.flixcart.com/image/312/312/kqqykcw0/television/1/f/n/kd-65x80j-sony-original-imag4p2wxahgfgmf.jpeg?q=70",
+      "name": "SONY X80J 164 cm (65 inch) Ultra HD (4K) LED Smart TV  (KD-65X80J)",
+      "quantity": 1,
+      "seller": "SONY",
+      "adress": "Hyderabad",
+      "price": 110990,
+      "status": "Delivered on 20th November"
+    },
+    {
+      "id": 3,
+      "avatar": "https://rukminim1.flixcart.com/image/612/612/kj7gwi80/gamingconsole/n/3/c/cfi-1008b01r-825-sony-no-original-imafytxenahqnnpu.jpeg?q=70",
+      "name": "SONY PlayStation 5 (CFI-1008B01R) 825 GB with Astro's Playroom",
+      "quantity": 1,
+      "seller": "SONY",
+      "adress": "Ananthauram",
+      "price": 39990,
+      "status": "Delivered on 15th August"
+    },
+    {
+      "id": 4,
+      "avatar": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "name": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "quantity": 1,
+      "seller": "Fjallraven",
+      "adress": "Vizag",
+      "price": 109,
+      "status": "Delivered on 9th September"
+    },
+    {
+      "id": 5,
+      "avatar": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/1353004/2018/9/18/a8acac3a-077a-400f-a1c7-519215a5265e1537251707732-Roadster-Men-Blue-Denim-Washed-Casual-Shirt-5281537251705552-1.jpg",
+      "name": "Men Blue Regular Fit Faded Casual Denim Shirt",
+      "quantity": 1,
+      "seller": "Denim",
+      "adress": "Guntur",
+      "price": 1199,
+      "status": "Delivered on 1st december"
+    },
+    {
+      "id": 6,
+      "avatar": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/12247308/2021/6/4/f210363f-8c55-42bc-a6f0-238077c18bc41622789741703-UNDER-ARMOUR-Men-Sports-Shoes-8471622789741281-5.jpg",
+      "name": "Men Black & Charcoal Grey HOVR Apex 2 Woven Design & Striped Training Shoes",
+      "quantity": 1,
+      "seller": "Under Armor",
+      "adress": "Los Angeles",
+      "price": 223.55,
+      "status": "Delivered on 3rd june"
+    },
+    {
+      "id": 7,
+      "avatar": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/12/27/3c5bc598-2093-48df-8e7c-6329adf0c2661577401172457-1.jpg",
+      "name": "Men Grey Analogue Watch FC-775G4S4",
+      "quantity": 1,
+      "seller": "Fredirigue Constant",
+      "adress": "Chicago",
+      "price": 18000,
+      "status": "Delivered on 18th january"
+    },
+    {
+      "id": 8,
+      "avatar": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/9803279/2019/10/11/08d246d9-80d1-4c61-8826-2074624aa0521570782280949-Apple-White-2nd-Gen-AirPods-with-Charging-Case-MV7N2HNA-1181-4.jpg",
+      "name": "White 2nd Gen AirPods with Charging Case",
+      "quantity": 1,
+      "seller": "Apple",
+      "adress": "Jaipur",
+      "price": 21000,
+      "status": "Delivered on 19th may"
+    },
+    {
+      "id": 9,
+      "avatar": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/6518755/2021/2/10/7249229f-5eb1-43dd-9c31-547d43f799c41612945435520-Philips-Men-Corded--Cordless-Rechargeable-Beard-Trimmer-BT32-1.jpg",
+      "name": "Men BT3211/15 Series 3000 Rechargeable Beard Trimmer - Olive Green",
+      "quantity": 1,
+      "seller": "Philips",
+      "adress": "Rajasthan",
+      "price": 1399,
+      "status": "Delivered on 23rd August"
+    },
+    {
+      "id": 10,
+      "avatar": "https://rukminim1.flixcart.com/image/312/312/kuvkcy80/computer/x/s/4/na-gaming-laptop-acer-original-imag7whp2f8fgpaz.jpeg?q=70",
+      "name": "acer Predator Helios 300 Octa Core i7 10th Gen - (16 GB/1 TB HDD/256 GB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX 3060/144 Hz) PH315-53 Gaming Laptop (15.6 inch, Black, 2.3 kg)",
+      "quantity": 1,
+      "seller": "Acer",
+      "adress": "Chennai",
+      "price": 63000,
+      "status": "Delivered on 12th February"
+    }
+  ]
+}

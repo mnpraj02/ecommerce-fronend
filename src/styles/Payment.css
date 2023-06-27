@@ -1,0 +1,117 @@
+#qty-product{
+  width: 30px;
+}
+
+.item-summary{
+    margin: 2em;
+    border: 1px solid black;
+    width: fit-content;
+    background-color: rgb(32, 49, 65);
+    border-radius: 8px;
+}
+.item-summary h1{
+    margin: 0.5em;
+    color: white;
+}
+.item-details{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    background-color: white ;
+    border-radius: 0 0 8px 8px;
+}
+
+.item-details-text{
+    margin: 1em;
+}
+
+.shipping-address{
+  margin: 2em;
+}
+
+.shipping-address h1{
+  margin: 0.5em;
+}
+
+.address-pack{
+  display: flex;
+  align-items: center;
+  background-color: lightgrey;
+  margin: 10px;
+  width: 50%;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.address-pack label{
+  margin-left: 5px;
+}
+
+.form-parent{
+  margin: 20px;
+  width: 30%;
+  border:1px solid black;
+  padding: 20px;
+  background-color: lightgrey;
+}
+
+.form-content{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.form-content input{
+  height: 30px;
+  padding: 0.25px;
+  margin-bottom: 10px;
+  width: 95%;
+  float: right;
+}
+
+.form-content label{
+  font-size: 18px;
+  margin: 10px 0 5px 0;
+  width: 75%;
+}
+
+.btn{
+  margin: 10px 0;
+  padding: 5px;
+  background-color: rgb(32, 49, 65);
+  color: white;
+  border-radius: 8px;
+  font-size: 18px;
+}
+
+.payment-method{
+  margin: 2em;
+}
+
+.payment-method h1{
+  margin: 0.5em;
+}
+
+.proceed-btn{
+  position: relative;
+  left: 45%;
+  padding: 10px;
+  background-color: rgb(32, 49, 65);
+  color: white;
+}
+
+.icon-container i{
+  margin: 2px;
+}
+
+.payment-list{
+  display: flex;
+}
+
+.shipping-details{
+  padding:1em;
+}
+
+.confirmation-heading{
+  padding: 2em 0 0 2em;
+}

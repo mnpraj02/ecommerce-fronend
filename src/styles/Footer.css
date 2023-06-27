@@ -1,0 +1,24 @@
+.footer-container {
+  margin-bottom: 0%;
+  background-color: rgb(32, 49, 65);
+  margin-top: 2vh;
+  text-align: center;
+  color: white;
+  padding: 0.5em 0.5em 0.2em 0.5em;
+}
+
+.footer-row-1{
+  display: flex;
+  justify-content: space-evenly;
+  margin: 1em;
+}
+
+.footer-row-2 i{
+  margin: 10px;
+}
+
+.footer-hr{
+  width: 95%;
+  margin: auto;
+  border: 0.1px solid grey;
+}
